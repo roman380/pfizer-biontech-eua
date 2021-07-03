@@ -32,7 +32,7 @@ Symptoms may appear 2 to 14 days after exposure to the virus. Symptoms may
 include: fever or chills; cough; shortness of breath; fatigue; muscle or body aches;
 headache; new loss of taste or smell; sore throat; congestion or runny nose;
 nausea or vomiting; diarrhea.
-Revised: 10 May 2021                                                                   1
+Revised: 19 May 2021                                                                   1
 
 DOSAGE AND ADMINISTRATION
 Storage and Handling
@@ -68,10 +68,10 @@ to the recommended storage condition of -80ºC to -60ºC (-112ºF to -76ºF).
 Thawed Vials Before Dilution
 Thawed Under Refrigeration
 Thaw and then store undiluted vials in the refrigerator [2ºC to 8ºC (35ºF to 46ºF)]
-for up to 5 days (120 hours). A carton of 25 vials or 195 vials may take up to 2 or
-3 hours, respectively, to thaw in the refrigerator, whereas a fewer number of vials
-will thaw in less time.
-Revised: 10 May 2021                                                                   2
+for up to 1 month. A carton of 25 vials or 195 vials may take up to 2 or 3 hours,
+respectively, to thaw in the refrigerator, whereas a fewer number of vials will thaw
+in less time.
+Revised: 19 May 2021                                                                   2
 
 Thawed at Room Temperature
 For immediate use, thaw undiluted vials at room temperature [up to 25ºC (77ºF)] for
@@ -80,8 +80,7 @@ room temperature before dilution.
 Undiluted vials may be stored at room temperature for no more than 2 hours.
 Transportation of Thawed Vials
 Available data support transportation of one or more thawed vials at 2°C to 8°C
-(35°F to 46°F) for up to 12 hours. Any hours used for transport at 2°C to 8°C (35°F
-to 46°F) count against the 120-hour limit for storage at 2°C to 8°C (35°F to 46°F).
+(35°F to 46°F) for up to 12 hours.
 Vials After Dilution
 •   After dilution, store vials between 2°C to 25°C (35°F to 77°F) and use within
 6 hours from the time of dilution.
@@ -109,7 +108,7 @@ Dilution
 Dilute the vial contents using 1.8 mL of 0.9% Sodium Chloride Injection, USP (not
 provided) to form the Pfizer-BioNTech COVID-19 Vaccine. ONLY use 0.9% Sodium
 Chloride Injection, USP as the diluent. This diluent is not packaged with the vaccine
-Revised: 10 May 2021                                                                    3
+Revised: 19 May 2021                                                                    3
 
 and must be sourced separately. Do not use bacteriostatic 0.9% Sodium Chloride
 Injection or any other diluent. Do not add more than 1.8 mL of diluent.
@@ -122,13 +121,13 @@ THAWING PRIOR TO DILUTION
 •   Thaw vial(s) of Pfizer-BioNTech
 COVID-19 Vaccine before use either
 by:
-o  Allowing vial(s) to thaw in the
+o Allowing vial(s) to thaw in the
 refrigerator [2ºC to 8ºC (35ºF to
 46ºF)]. A carton of vials may take up
 to 3 hours to thaw, and thawed vials
 can be stored in the refrigerator for
-up to five days (120 hours).
-o  Allowing vial(s) to sit at room
+up to 1 month.
+o Allowing vial(s) to sit at room
 temperature [up to 25ºC (77ºF)] for
 30 minutes.
 •   Using either thawing method, vials
@@ -145,7 +144,7 @@ white to off-white opaque amorphous
 particles.
 •   Do not use if liquid is discolored or if
 other particles are observed.
-Revised: 10 May 2021                                                                    4
+Revised: 19 May 2021                                                                    4
 
 DILUTION
 •   Obtain sterile 0.9% Sodium Chloride
@@ -171,7 +170,7 @@ Pfizer-BioNTech COVID-19 Vaccine
 suspension. Do not use if vaccine is
 discolored or contains particulate
 matter.
-Revised: 10 May 2021                          5
+Revised: 19 May 2021                          5
 
 •   Record the date and time of dilution on
 the Pfizer-BioNTech COVID-19
@@ -207,7 +206,7 @@ After dilution, vials of Pfizer-BioNTech COVID-19 Vaccine contain six doses of
 extract six doses from a single vial. If standard syringes and needles are used,
 there may not be sufficient volume to extract a sixth dose from a single vial.
 Irrespective of the type of syringe and needle:
-Revised: 10 May 2021                                                               6
+Revised: 19 May 2021                                                               6
 
 •   Each dose must contain 0.3 mL of vaccine.
 •   If the amount of vaccine remaining in the vial cannot provide a full dose of
@@ -245,7 +244,7 @@ extremity (arm) have been reported following administration of the Pfizer-BioNTe
 COVID-19 Vaccine outside of clinical trials.
 Additional adverse reactions, some of which may be serious, may become
 apparent with more widespread use of the Pfizer-BioNTech COVID-19 Vaccine.
-Revised: 10 May 2021                                                                        7
+Revised: 19 May 2021                                                                        7
 
 Use with Other Vaccines
 There is no information on the co-administration of the Pfizer-BioNTech COVID-19
@@ -285,7 +284,7 @@ optimize the potential benefit of Pfizer-BioNTech COVID-19 Vaccine, the followin
 items are required. Use of unapproved Pfizer-BioNTech COVID-19 Vaccine for
 active immunization to prevent COVID-19 under this EUA is limited to the following
 (all requirements must be met):
-Revised: 10 May 2021                                                                    8
+Revised: 19 May 2021                                                                    8
 
 1.                                                                                       Pfizer-BioNTech COVID-19 Vaccine is authorized for use in individuals
 12 years of age and older.
@@ -324,7 +323,7 @@ conduct normal life functions;
 •   An important medical event that based on appropriate medical judgement
 may jeopardize the individual and may require medical or surgical
 intervention to prevent one of the outcomes listed above.
-Revised: 10 May 2021                                                                     9
+Revised: 19 May 2021                                                                     9
 
 OTHER ADVERSE EVENT REPORTING TO VAERS AND PFIZER INC.
 Vaccination providers may report to VAERS other adverse events that are not
@@ -358,7 +357,7 @@ Medicaid, Health Resources & Services Administration [HRSA] COVID-19
 Uninsured Program for non-insured recipients). For information regarding provider
 requirements and enrollment in the CDC COVID-19 Vaccination Program, see
 https://www.cdc.gov/vaccines/covid-19/provider-enrollment.html.
-Revised: 10 May 2021                                                                10
+Revised: 19 May 2021                                                                10
 
 Individuals becoming aware of any potential violations of the CDC COVID-19
 Vaccination Program requirements are encouraged to report them to the Office of
@@ -391,19 +390,19 @@ devices, or other items used to prevent, diagnose, or treat the public during a 
 health emergency or a security threat. For more information about CICP regarding
 the Pfizer-BioNTech COVID-19 Vaccine used to prevent COVID-19, visit
 www.hrsa.gov/cicp, email cicp@hrsa.gov, or call: 1-855-266-2427.
-Revised: 10 May 2021                                                                     11
-
 Manufactured by
 Pfizer Inc., New York, NY 10017
+Revised: 19 May 2021                                                                     11
+
 Manufactured for
 BioNTech Manufacturing GmbH
 An der Goldgrube 12
 55131 Mainz, Germany
-LAB-1450-7.2a
-Revised: 10 May 2021
+LAB-1450-8.2b
+Revised: 19 May 2021
 END SHORT VERSION FACT SHEET
 Long Version (Full EUA Prescribing Information) Begins On Next Page
-Revised: 10 May 2021                                                  12
+Revised: 19 May 2021                                                  12
 
 FULL EMERGENCY USE
 AUTHORIZATION (EUA) PRESCRIBING
@@ -433,7 +432,7 @@ PRESCRIBING INFORMATION: CONTENTS*
 6.2                                               Post Authorization Experience                                    21  CONTACT INFORMATION
                                                                                                                    * Sections or subsections omitted from the full emergency use authorization
                                                                                                                    prescribing information are not listed.
-Revised: 10 May 2021                                                                                               13
+Revised: 19 May 2021                                                                                               13
 
 FULL EMERGENCY USE AUTHORIZATION (EUA) PRESCRIBING INFORMATION
 1                                                                                                                 AUTHORIZED USE
@@ -461,7 +460,7 @@ a vial contains 5 doses of 0.3 mL. The information in this Full EUA Prescribing 
 the number of doses per vial after dilution supersedes the number of doses stated on vial labels and
 cartons.
 •   Refer to dilution and dose preparation instructions in the panels below.
-Revised: 10 May 2021                                                                                              14
+Revised: 19 May 2021                                                                                              14
 
 THAWING PRIOR TO DILUTION
 •   Thaw vial(s) of Pfizer-BioNTech COVID-19
@@ -469,8 +468,7 @@ Vaccine before use either by:
 o   Allowing vial(s) to thaw in the refrigerator [2ºC
 to 8ºC (35ºF to 46ºF)]. A carton of vials may take
 up to 3 hours to thaw, and thawed vials can be
-stored in the refrigerator for up to five days
-(120 hours).
+stored in the refrigerator for up to 1 month.
 o   Allowing vial(s) to sit at room temperature [up to
 25ºC (77ºF)] for 30 minutes.
 •   Using either thawing method, vials must reach room
@@ -494,7 +492,7 @@ needle).
 antiseptic swab.
 •   Add 1.8 mL of 0.9% Sodium Chloride Injection,
 USP into the vaccine vial.
-Revised: 10 May 2021                                           15
+Revised: 19 May 2021                                           15
 
 •   Equalize vial pressure before removing the needle
 from the vial by withdrawing 1.8 mL air into the
@@ -503,7 +501,7 @@ empty diluent syringe.
 Pfizer-BioNTech COVID-19 Vaccine 10 times to
 mix.
 •   Do not shake.
-•    Inspect the vaccine in the vial.
+•   Inspect the vaccine in the vial.
 •   The vaccine will be an off-white suspension. Do not
 use if vaccine is discolored or contains particulate
 matter.
@@ -511,7 +509,7 @@ matter.
 Pfizer-BioNTech COVID-19 Vaccine vial label.
 •   Store between 2°C to 25°C (35°F to 77°F).
 •   Discard any unused vaccine 6 hours after dilution.
-Revised: 10 May 2021                                      16
+Revised: 19 May 2021                                      16
 
 PREPARATION OF INDIVIDUAL 0.3 mL DOSES OF PFIZER-BIONTECH COVID-19
 VACCINE
@@ -549,7 +547,7 @@ Pfizer-BioNTech COVID-19 Vaccine should receive a second dose of Pfizer-BioNTech
 complete the vaccination series.
 3                                                                                                                   DOSAGE FORMS AND STRENGTHS
                                                                                                                     Pfizer-BioNTech COVID-19 Vaccine is a suspension for injection. After preparation, a single dose is 0.3 mL.
-Revised: 10 May 2021                                                                                                17
+Revised: 19 May 2021                                                                                                                                                                                                              17
 
 4                                                                                                                      CONTRAINDICATIONS
                                                                                                                        Do not administer Pfizer-BioNTech COVID-19 Vaccine to individuals with known history of a severe allergic
@@ -587,14 +585,14 @@ In a clinical study, adverse reactions in adolescents 12 through 15 years of age
 (90.5%), fatigue (77.5%), headache (75.5%), chills (49.2%), muscle pain (42.2%), fever (24.3%), joint pain
 (20.2%), injection site swelling (9.2%), injection site redness (8.6%), lymphadenopathy (0.8%), and nausea
 (0.4%).
-Revised: 10 May 2021                                                                                                   18
+Revised: 19 May 2021                                                                                                   18
 
 Severe allergic reactions, including anaphylaxis, have been reported following administration of the
 Pfizer-BioNTech COVID-19 Vaccine outside of clinical trials.
 6.1                                                                                                                 Clinical Trials Experience
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the
 clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not
-reflect the rates observed in practice.
+reflect the rates observed in practice
 The safety of Pfizer-BioNTech COVID-19 Vaccine was evaluated in participants 12 years of age and older in
 two clinical studies conducted in the United States, Europe, Turkey, South Africa, and South America.
 Study BNT162-01 (Study 1) was a Phase 1/2, two-part, dose-escalation trial that enrolled 60 participants,
@@ -628,7 +626,7 @@ Across both age groups, 18 through 55 years of age and 56 years and older, the m
 injection site after Dose 2 was 2.5 days (range 1 to 36 days), for redness 2.6 days (range 1 to 34 days), and for
 swelling 2.3 days (range 1 to 34 days) for participants in the Pfizer-BioNTech COVID-19 Vaccine group.
 Solicited reactogenicity data in 16 and 17 year-old participants are limited.
-Revised: 10 May 2021                                                                                                19
+Revised: 19 May 2021                                                                                                19
 
 Table 1:   Study 2 - Frequency and Percentages of Participants with Solicited Local Reactions, by
 Maximum Severity, Within 7 Days After Each Dose - Participants 18 Through 55 Years of
@@ -679,7 +677,7 @@ Any                                                                             
 Mild                                                                                                                          597 (26.1)         467 (20.3)   442 (21.1)         248 (11.8)
 Moderate                                                                                                                      455 (19.9)         289 (12.6)   708 (33.7)         217 (10.3)
 Severe                                                                                                                        33 (1.4)           11 (0.5)     97 (4.6)           14 (0.7)
-Revised: 10 May 2021                                                                                                                                                             20
+Revised: 19 May 2021                                                                                                                                                             20
 
                                                                                                                                     Pfizer-BioNTech                 Pfizer-BioNTech
                                                                                                                                     COVID-19 Vaccine   Placebo      COVID-19 Vaccine   Placebo
@@ -730,7 +728,7 @@ e. Mild: 2 to 3 loose stools in 24 hours; Moderate: 4 to 5 loose stools in 24 ho
 f.  Severity was not collected for use of antipyretic or pain medication.
 ‡  Eight participants were between 16 and 17 years of age.
 *  Randomized participants in the safety analysis population who received at least 1 dose of the study intervention.
-Revised: 10 May 2021                                                                                                                21
+Revised: 19 May 2021                                                                                                                21
 
 Table 3:   Study 2 - Frequency and Percentages of Participants with Solicited Local Reactions, by
 Maximum Severity, Within 7 Days After Each Dose - Participants 56 Years of Age and
@@ -781,7 +779,7 @@ Any                                                                             
 Mild                                                                                                                         373 (20.7)         252 (14.1)   351 (21.1)         161 (9.8)
 Moderate                                                                                                                     240 (13.3)         150 (8.4)    442 (26.6)         114 (6.9)
 Severe                                                                                                                       2 (0.1)            3 (0.2)      46 (2.8)           2 (0.1)
-Revised: 10 May 2021                                                                                                                                                            22
+Revised: 19 May 2021                                                                                                                                                            22
 
                                                                                                                                     Pfizer-BioNTech                 Pfizer-BioNTech
                                                                                                                                     COVID-19 Vaccine   Placebo      COVID-19 Vaccine   Placebo
@@ -830,7 +828,7 @@ c. Mild: does not interfere with activity; Moderate: some interference with acti
 d. Mild: 1 to 2 times in 24 hours; Moderate: >2 times in 24 hours; Severe: requires intravenous hydration.
 e. Mild: 2 to 3 loose stools in 24 hours; Moderate: 4 to 5 loose stools in 24 hours; Severe: 6 or more loose stools in 24 hours.
 *  Randomized participants in the safety analysis population who received at least 1 dose of the study intervention.
-Revised: 10 May 2021                                                                                                                23
+Revised: 19 May 2021                                                                                                                23
 
 Unsolicited Adverse Events
 Serious Adverse Events
@@ -875,7 +873,7 @@ Adolescents 12 Through 15 Years of Age
 In an analysis of Study 2, based on data up to the cutoff date of March 13, 2021, 2,260 adolescents
 (1,131 Pfizer-BioNTech COVID-19 Vaccine; 1,129 placebo) were 12 through 15 years of age. Of these,
 1,308 (660 Pfizer-BioNTech COVID-19 Vaccine and 648 placebo) adolescents have been followed for at least
-Revised: 10 May 2021                                                                                                24
+Revised: 19 May 2021                                                                                                24
 
 2 months after the second dose of Pfizer-BioNTech COVID-19 Vaccine. The safety evaluation in Study 2 is
 ongoing.
@@ -918,7 +916,7 @@ b. n = Number of participants with the specified reaction.
 c. Mild: >2.0 to ≤5.0 cm; Moderate: >5.0 to ≤10.0 cm; Severe: >10.0 cm.
 d. Mild: does not interfere with activity; Moderate: interferes with activity; Severe: prevents daily activity.
 *  Randomized participants in the safety analysis population who received at least 1 dose of the study intervention.
-Revised: 10 May 2021                                                                                                          25
+Revised: 19 May 2021                                                                                                          25
 
 Table 6:   Study 2 - Frequency and Percentages of Adolescents with Solicited Systemic Reactions, by
 Maximum Severity, Within 7 Days After Each Dose - Adolescents 12 Through 15 Years of Age
@@ -965,7 +963,7 @@ Any                                                                             
 Mild                                                                                                  125 (11.1)         88 (7.8)     152 (13.9)         51 (4.7)
 Moderate                                                                                              145 (12.9)         60 (5.3)     197 (18.0)         37 (3.4)
 Severe                                                                                                2 (0.2)            0 (0.0)      6 (0.5)            2 (0.2)
-Revised: 10 May 2021                                                                                  26
+Revised: 19 May 2021                                                                                  26
 
                                                                                                                                     Pfizer-BioNTech                                                                                                         Pfizer-BioNTech
                                                                                                                                     COVID-19 Vaccine                                                                                            Placebo     COVID-19 Vaccine   Placebo
@@ -1010,7 +1008,7 @@ COVID-19 Vaccine.
                                                                                                                                     The following adverse reactions have been identified during post authorization use of Pfizer-BioNTech
                                                                                                                                     COVID-19 Vaccine. Because these reactions are reported voluntarily, it is not always possible to reliably
                                                                                                                                     estimate their frequency or establish a causal relationship to vaccine exposure.
-Revised: 10 May 2021                                                                                                                27
+Revised: 19 May 2021                                                                                                                27
 
 Immune System Disorders: severe allergic reactions, including anaphylaxis, and other hypersensitivity reactions
 (e.g., rash, pruritus, urticaria, angioedema)
@@ -1055,7 +1053,7 @@ Vaccine
 •   Outcome of the event and any additional follow-up information if it is available at the time of the
 VAERS report. Subsequent reporting of follow-up information should be completed if additional
 details become available.
-Revised: 10 May 2021                                                                                              28
+Revised: 19 May 2021                                                                                              28
 
 The following steps are highlighted to provide the necessary information for safety tracking:
 1.  In Box 17, provide information on Pfizer-BioNTech COVID-19 Vaccine and any other vaccines
@@ -1094,7 +1092,7 @@ pregnant women are insufficient to inform vaccine-associated risks in pregnancy.
 In a reproductive and developmental toxicity study, 0.06 mL of a vaccine formulation containing the same
 quantity of nucleoside-modified messenger ribonucleic acid (mRNA) (30 mcg) and other ingredients included
 in a single human dose of Pfizer-BioNTech COVID-19 Vaccine was administered to female rats by the
-Revised: 10 May 2021                                                                                                 29
+Revised: 19 May 2021                                                                                                 29
 
 intramuscular route on four occasions: 21 and 14 days prior to mating, and on gestation days 9 and 20. No
 vaccine-related adverse effects on female fertility, fetal development, or postnatal development were reported in
@@ -1132,7 +1130,7 @@ natural rubber latex.
                                                                                                                     The modRNA in the Pfizer-BioNTech COVID-19 Vaccine is formulated in lipid particles, which enable
                                                                                                                     delivery of the RNA into host cells to allow expression of the SARS-CoV-2 S antigen. The vaccine elicits an
                                                                                                                     immune response to the S antigen, which protects against COVID-19.
-Revised: 10 May 2021                                                                                                                                                                                                              30
+Revised: 19 May 2021                                                                                                                                                                                                              30
 
 18                                                                                                                CLINICAL TRIAL RESULTS AND SUPPORTING DATA FOR EUA
 18.1                                                                                                              Efficacy in Participants 16 Years of Age and Older
@@ -1178,7 +1176,7 @@ American Indian or Alaska Native                                                
 Asian                                                                                                             815 (4.5)                                                      810 (4.4)
 Native Hawaiian or other Pacific Islander                                                                         48 (0.3)                                                       29 (0.2)
 Otherc                                                                                                            534 (2.9)                                                      516 (2.8)
-Revised: 10 May 2021                                                                                                                                                                                       31
+Revised: 19 May 2021                                                                                                                                                                                       31
 
 Pfizer-BioNTech
                                                                                                                                      COVID-19 Vaccine                                                                                                                 Placebo
@@ -1200,21 +1198,21 @@ depending on the population analyzed. They contributed to exposure information b
 did not affect efficacy conclusions.
 c.    Includes multiracial and not reported.
 d.    Number of participants who have 1 or more comorbidities that increase the risk of severe COVID-19 disease
-•    Chronic lung disease (e.g., emphysema and chronic bronchitis, idiopathic pulmonary fibrosis, and cystic fibrosis) or
+•   Chronic lung disease (e.g., emphysema and chronic bronchitis, idiopathic pulmonary fibrosis, and cystic fibrosis) or
 moderate to severe asthma
-•    Significant cardiac disease (e.g., heart failure, coronary artery disease, congenital heart disease, cardiomyopathies, and
+•   Significant cardiac disease (e.g., heart failure, coronary artery disease, congenital heart disease, cardiomyopathies, and
 pulmonary hypertension)
-•    Obesity (body mass index ≥30 kg/m2)
-•    Diabetes (Type 1, Type 2 or gestational)
-•    Liver disease
-•    Human Immunodeficiency Virus (HIV) infection (not included in the efficacy evaluation)
+•   Obesity (body mass index ≥30 kg/m2)
+•   Diabetes (Type 1, Type 2 or gestational)
+•   Liver disease
+•   Human Immunodeficiency Virus (HIV) infection (not included in the efficacy evaluation)
 The population in the primary efficacy analysis included all participants 12 years of age and older who had been
 enrolled from July 27, 2020, and followed for the development of COVID-19 through November 14, 2020.
 Participants 18 through 55 years of age and 56 years of age and older began enrollment from July 27, 2020,
 16 through 17 years of age began enrollment from September 16, 2020, and 12 through 15 years of age began
 enrollment from October 15, 2020.
 The vaccine efficacy information is presented in Table 8.
-Revised: 10 May 2021                                                                                                                 32
+Revised: 19 May 2021                                                                                                                 32
 
 Table 8:   Vaccine Efficacy - First COVID-19 Occurrence From 7 Days After Dose 2, by Age
 Subgroup - Participants Without Evidence of Infection and Participants With or Without
@@ -1266,7 +1264,7 @@ time.
 18.2                                                                                                                                 Efficacy in Adolescents 12 Through 15 Years of Age
                                                                                                                                      A descriptive efficacy analysis of Study 2 has been performed in approximately 2,200 adolescents 12 through
                                                                                                                                      15 years of age evaluating confirmed COVID-19 cases accrued up to a data cutoff date of March 13, 2021.
-Revised: 10 May 2021                                                                                                                 33
+Revised: 19 May 2021                                                                                                                 33
 
 The efficacy information in adolescents 12 through 15 years of age is presented in Table 9.
 Table 9:   Vaccine Efficacy - First COVID-19 Occurrence From 7 Days After Dose 2: Without Evidence
@@ -1310,7 +1308,7 @@ In Study 2, an analysis of SARS-CoV-2 50% neutralizing titers 1 month after Dose
 subset of participants demonstrated non-inferior immune responses (within 1.5-fold) comparing adolescents
 12 through 15 years of age to participants 16 through 25 years of age who had no serological or virological
 evidence of past SARS-CoV-2 infection up to 1 month after Dose 2 (Table 10).
-Revised: 10 May 2021                                                                                                                    34
+Revised: 19 May 2021                                                                                                                    34
 
 Table 10: Summary of Geometric Mean Ratio for 50% Neutralizing Titer - Comparison of Adolescents
 12 Through 15 Years of Age to Participants 16 Through 25 Years of Age (Immunogenicity
@@ -1360,7 +1358,7 @@ Cartons of Pfizer-BioNTech COVID-19 Vaccine Multiple Dose Vials arrive in therma
 Once received, remove the vial cartons immediately from the thermal container and preferably store in an
 ultra-low temperature freezer between -80ºC to -60ºC (-112ºF to -76ºF) until the expiry date printed on the
 label. Alternatively, vials may be stored at -25°C to -15°C (-13°F to 5°F) for up to 2 weeks. Vials must be kept
-Revised: 10 May 2021                                                                                                                  35
+Revised: 19 May 2021                                                                                                                  35
 
 frozen and protected from light, in the original cartons, until ready to use. Vials stored at -25°C to -15°C (-13°F
 to 5°F) for up to 2 weeks may be returned one time to the recommended storage condition of -80ºC to -60ºC
@@ -1380,9 +1378,9 @@ Frozen vials transported at -25°C to -15°C (-13°F to 5°F) may be returned on
 condition of -80ºC to -60ºC (-112ºF to -76ºF).
 Thawed Vials Before Dilution
 Thawed Under Refrigeration
-Thaw and then store undiluted vials in the refrigerator [2ºC to 8ºC (35ºF to 46ºF)] for up to 5 days (120 hours).
-A carton of 25 vials or 195 vials may take up to 2 or 3 hours, respectively, to thaw in the refrigerator, whereas a
-fewer number of vials will thaw in less time.
+Thaw and then store undiluted vials in the refrigerator [2ºC to 8ºC (35ºF to 46ºF)] for up to 1 month. A carton of
+25 vials or 195 vials may take up to 2 or 3 hours, respectively, to thaw in the refrigerator, whereas a fewer
+number of vials will thaw in less time.
 Thawed at Room Temperature
 For immediate use, thaw undiluted vials at room temperature [up to 25ºC (77ºF)] for 30 minutes. Thawed vials
 can be handled in room light conditions.
@@ -1390,16 +1388,15 @@ Vials must reach room temperature before dilution.
 Undiluted vials may be stored at room temperature for no more than 2 hours.
 Transportation of Thawed Vials
 Available data support transportation of one or more thawed vials at 2°C to 8°C (35°F to 46°F) for up to
-12 hours. Any hours used for transport at 2°C to 8°C (35°F to 46°F) count against the 120-hour limit for storage
-at 2°C to 8°C (35°F to 46°F).
+12 hours.
 Vials After Dilution
 After dilution, store vials between 2°C to 25°C (35°F to 77°F) and use within 6 hours from the time of dilution.
 During storage, minimize exposure to room light, and avoid exposure to direct sunlight and ultraviolet light.
 Any vaccine remaining in vials must be discarded after 6 hours. Do not refreeze.
-Revised: 10 May 2021                                                                                                  36
+20                                                                                                                    PATIENT COUNSELING INFORMATION
+                                                                                                                      Advise the recipient or caregiver to read the Fact Sheet for Recipients and Caregivers.
+Revised: 19 May 2021                                                                                                                                                                                            36
 
-20                                                                                                               PATIENT COUNSELING INFORMATION
-Advise the recipient or caregiver to read the Fact Sheet for Recipients and Caregivers.
 The vaccination provider must include vaccination information in the state/local jurisdiction’s Immunization
 Information System (IIS) or other designated system. Advise recipient or caregiver that more information about
 IISs can be found at: https://www.cdc.gov/vaccines/programs/iis/about.html.
@@ -1417,6 +1414,6 @@ Manufactured for
 BioNTech Manufacturing GmbH
 An der Goldgrube 12
 55131 Mainz, Germany
-LAB-1457-7.4a
-Revised: 10 May 2021
-Revised: 10 May 2021                                                                                             37
+LAB-1457-8.2b
+Revised: 19 May 2021
+Revised: 19 May 2021                                                                                             37
