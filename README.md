@@ -1,6 +1,6 @@
 # History of Emergency Use Authorization (EUA) of the Pfizer-BioNTech COVID-19 Vaccine
 
-Evolution of [Fact Sheet for Healthcare Providers Administering Vaccine](https://www.fda.gov/media/144414/download) document:
+Evolution of [Fact Sheet for Healthcare Providers Administering Vaccine](https://www.fda.gov/media/144413/download) document:
 
 > FACT SHEET FOR RECIPIENTS AND CAREGIVERS
 > EMERGENCY USE AUTHORIZATION (EUA) OF THE PFIZER-BIONTECH COVID-19 VACCINE TO PREVENT CORONAVIRUS DISEASE 2019 (COVID-19)
