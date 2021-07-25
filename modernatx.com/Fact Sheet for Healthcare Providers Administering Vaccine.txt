@@ -33,7 +33,7 @@ DOSAGE AND ADMINISTRATION
 Storage and Handling
 The information in this Fact Sheet supersedes the information on the vial and carton labels.
 During storage, minimize exposure to room light.
-Revised: Mar/31/2021                                                                                1
+Revised: Jun/24/2021                                                                                1
 
 The Moderna COVID-19 Vaccine multiple-dose vials are stored frozen between -50º to -15ºC
 (-58º to 5ºF). Store in the original carton to protect from light.
@@ -65,17 +65,17 @@ Dose Preparation
 does not contain a preservative and must be thawed prior to administration.
 •   Remove the required number of vial(s) from storage and thaw each vial before use
 following the instructions below.
-Revised: Mar/31/2021                                                                                    2
+Revised: Jun/24/2021                                                                                    2
 
 Vial                                                                                          Thaw in Refrigerator                                                                       Thaw at Room Temperature
 Maximum                                                                                       Thaw in refrigerated conditions                                                            Alternatively, thaw at room
-11-Dose Vial                                                                                  between 2° to 8°C for 2 hours                                                              temperature between 15° to
-(range: 10-11                                                                                 and 30 minutes. Let each vial                                                              25°C for 1 hour.
+11-Dose Vial                                                                                  between 2 to 8C for 2 hours                                                              temperature between 15 to
+(range: 10-11                                                                                 and 30 minutes. Let each vial                                                              25C for 1 hour.
 doses)                                                                                        stand at room temperature for 15
                                                                                               minutes before administering.
 Maximum                                                                                       Thaw in refrigerated conditions                                                            Alternatively, thaw at room
-15-Dose Vial                                                                                  between 2° to 8°C for 3 hours.                                                             temperature between 15° to
-(range: 13-15                                                                                 Let each vial stand at room                                                                25°C for 1 hour and 30
+15-Dose Vial                                                                                  between 2 to 8C for 3 hours.                                                             temperature between 15 to
+(range: 13-15                                                                                 Let each vial stand at room                                                                25C for 1 hour and 30
 doses)                                                                                        temperature for 15 minutes                                                                 minutes.
                                                                                               before administering.
 •                                                                                             After thawing, do not refreeze.
@@ -108,7 +108,7 @@ related particulates. During the visual inspection,
 •   verify the final dosing volume of 0.5 mL.
 •   confirm there are no other particulates and that no discoloration is observed.
 •   do not administer if vaccine is discolored or contains other particulate matter.
-Revised: Mar/31/2021                                                                          3
+Revised: Jun/24/2021                                                                          3
 
 Administer the Moderna COVID-19 Vaccine intramuscularly.
 CONTRAINDICATION
@@ -116,14 +116,28 @@ Do not administer the Moderna COVID-19 Vaccine to individuals with a known histo
 severe allergic reaction (e.g., anaphylaxis) to any component of the Moderna COVID-19
 Vaccine (see Full EUA Prescribing Information).
 WARNINGS
+Management of Acute Allergic Reactions
 Appropriate medical treatment to manage immediate allergic reactions must be immediately
 available in the event an acute anaphylactic reaction occurs following administration of the
 Moderna COVID-19 Vaccine.
 Monitor Moderna COVID-19 Vaccine recipients for the occurrence of immediate adverse
-reactions according to the Centers for Disease Control and Prevention guidelines
+reactions according to the Centers for Disease Control and Prevention (CDC) guidelines
 (https://www.cdc.gov/vaccines/covid-19/clinical-considerations/managing-anaphylaxis.html).
+Myocarditis and Pericarditis
+Reports of adverse events following use of the Moderna COVID-19 Vaccine under EUA suggest
+increased risks of myocarditis and pericarditis, particularly following the second dose. Typically,
+onset of symptoms has been within a few days following receipt of the Moderna COVID-19
+Vaccine. Available data from short-term follow-up suggest that most individuals have had
+resolution of symptoms, but information is not yet available about potential long-term sequelae.
+The decision to administer the Moderna COVID-19 Vaccine to an individual with a history of
+myocarditis or pericarditis should take into account the individual’s clinical circumstances. The
+CDC has published clinical considerations relevant to myocarditis and pericarditis associated
+with administration of the Moderna COVID-19 Vaccine (https://www.cdc.gov/vaccines/covid-
+19/clinical-considerations/myocarditis.html).
+Altered Immunocompetence
 Immunocompromised persons, including individuals receiving immunosuppressant therapy, may
 have a diminished immune response to the Moderna COVID-19 Vaccine.
+Limitations of Vaccine Effectiveness
 The Moderna COVID-19 Vaccine may not protect all vaccine recipients.
 ADVERSE REACTIONS
 Adverse reactions reported in a clinical trial following administration of the Moderna COVID-19
@@ -132,6 +146,10 @@ nausea/vomiting, axillary swelling/tenderness, fever, swelling at the injection 
 at the injection site. (See Full EUA Prescribing Information)
 Severe allergic reactions, including anaphylaxis, have been reported following administration of
 the Moderna COVID-19 Vaccine during mass vaccination outside of clinical trials.
+Revised: Jun/24/2021                                                                                  4
+
+Myocarditis and pericarditis have been reported following administration of the Moderna
+COVID-19 Vaccine during mass vaccination outside of clinical trials.
 Additional adverse reactions, some of which may be serious, may become apparent with more
 widespread use of the Moderna COVID-19 Vaccine.
 USE WITH OTHER VACCINES
@@ -146,8 +164,6 @@ including:
 •   FDA has authorized the emergency use of the Moderna COVID-19 Vaccine, which is not
 an FDA-approved vaccine.
 •   The recipient or their caregiver has the option to accept or refuse the Moderna COVID-19
-Revised: Mar/31/2021                                                                                 4
-
 Vaccine.
 •   The significant known and potential risks and benefits of the Moderna COVID-19
 Vaccine, and the extent to which such risks and benefits are unknown.
@@ -170,27 +186,27 @@ In order to mitigate the risks of using this unapproved product under EUA and to
 potential benefit of the Moderna COVID-19 Vaccine, the following items are required. Use of
 unapproved Moderna COVID-19 Vaccine for active immunization to prevent COVID-19 under
 this EUA is limited to the following (all requirements must be met):
-1.  The Moderna COVID-19 Vaccine is authorized for use in individuals 18 years of age and
+Revised: Jun/24/2021                                                                                  5
+
+1.                                                                                           The Moderna COVID-19 Vaccine is authorized for use in individuals 18 years of age and
 older.
-2.  The vaccination provider must communicate to the individual receiving the Moderna
+2.                                                                                           The vaccination provider must communicate to the individual receiving the Moderna
 COVID-19 Vaccine or their caregiver information consistent with the “Fact Sheet for
 Recipients and Caregivers” prior to the individual receiving the Moderna COVID-19
 Vaccine.
-3.  The vaccination provider must include vaccination information in the state/local
+3.                                                                                           The vaccination provider must include vaccination information in the state/local
 jurisdiction’s Immunization Information System (IIS) or other designated system.
-4.  The vaccination provider is responsible for mandatory reporting of the following to the
+4.                                                                                           The vaccination provider is responsible for mandatory reporting of the following to the
 Vaccine Adverse Event Reporting System (VAERS):
 •   vaccine administration errors whether or not associated with an adverse event,
 •   serious adverse events* (irrespective of attribution to vaccination),
 •   cases of Multisystem Inflammatory Syndrome (MIS) in adults, and
 •   cases of COVID-19 that result in hospitalization or death.
 Complete and submit reports to VAERS online at https://vaers.hhs.gov/reportevent.html.
-Revised: Mar/31/2021                                                                                  5
-
 For further assistance with reporting to VAERS, call 1-800-822-7967. The reports should
 include the words “Moderna COVID-19 Vaccine EUA” in the description section of the
 report.
-5.  The vaccination provider is responsible for responding to FDA requests for information
+5.                                                                                           The vaccination provider is responsible for responding to FDA requests for information
 about vaccine administration errors, adverse events, cases of MIS in adults, and cases of
 COVID-19 that result in hospitalization or death following administration of the Moderna
 COVID-19 Vaccine to recipients.
@@ -207,17 +223,17 @@ prevent one of the outcomes listed above.
 OTHER ADVERSE EVENT REPORTING TO VAERS AND MODERNATX, INC.
 Vaccination providers may report to VAERS other adverse events that are not required to be
 reported using the contact information above.
+Revised: Jun/24/2021                                                                         6
+
 To the extent feasible, report adverse events to ModernaTX, Inc. using the contact information
 below or by providing a copy of the VAERS form to ModernaTX, Inc.
-Email                                                                                            Fax number       Telephone number
-ModernaPV@modernatx.com                                                                          1-866-599-1342   1-866-MODERNA
+Email                                                                                             Fax number         Telephone number
+ModernaPV@modernatx.com                                                                           1-866-599-1342     1-866-MODERNA
 (1-866-663-3762)
 ADDITIONAL INFORMATION
 For general questions, visit the website or call the telephone number provided below.
 To access the most recent Moderna COVID-19 Vaccine Fact Sheets, please scan the QR code or
 visit the website provided below.
-Revised: Mar/31/2021                                                                             6
-
 Website                                                                                           Telephone number
 www.modernatx.com/covid19vaccine-eua                                                              1-866-MODERNA
 (1-866-663-3762)
@@ -240,6 +256,8 @@ Program requirements are encouraged to report them to the Office of the Inspecto
 Department of Health and Human Services, at 1-800-HHS-TIPS or TIPS.HHS.GOV.
 AUTHORITY FOR ISSUANCE OF THE EUA
 The Secretary of the Department of Health and Human Services (HHS) has declared a public
+Revised: Jun/24/2021                                                                              7
+
 health emergency that justifies the emergency use of drugs and biological products during the
 COVID-19 Pandemic. In response, the FDA has issued an EUA for the unapproved product,
 Moderna COVID-19 Vaccine, for active immunization to prevent COVID-19 in individuals 18
@@ -251,8 +269,6 @@ be effective for the prevention of COVID-19 in individuals as specified in the F
 Prescribing Information.
 This EUA for the Moderna COVID-19 Vaccine will end when the Secretary of HHS determines
 that the circumstances justifying the EUA no longer exist or when there is a change in the
-Revised: Mar/31/2021                                                                              7
-
 approval status of the product such that an EUA is no longer needed.
 For additional information about Emergency Use Authorization, visit FDA at:
 https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-
@@ -269,31 +285,33 @@ Moderna US, Inc.
 Cambridge, MA 02139
 ©2021 ModernaTX, Inc. All rights reserved.
 Patent(s): www.modernatx.com/patents
-Revised: Mar/31/2021
+Revised: Jun/24/2021
 END SHORT VERSION FACT SHEET
 Long Version (Full EUA Prescribing Information) Begins On Next Page
-Revised: Mar/31/2021                                                                              8
+Revised: Jun/24/2021                                                                              8
 
 FULL EMERGENCY USE AUTHORIZATION (EUA)
 PRESCRIBING INFORMATION
 MODERNA COVID-19 VACCINE
-FULL EUA PRESCRIBING INFORMATION: CONTENTS*                                                   10 DRUG INTERACTIONS
-1 AUTHORIZED USE                                                                              11 USE IN SPECIFIC POPULATIONS
-2 DOSAGE AND ADMINISTRATION                                                                   11.1 Pregnancy
-2.1 Preparation for Administration                                                            11.2 Lactation
-2.2 Administration                                                                            11.3 Pediatric Use
-2.3 Dosing and Schedule                                                                       11.4 Geriatric Use
-3 DOSAGE FORMS AND STRENGTHS                                                                  13 DESCRIPTION
-4 CONTRAINDICATIONS                                                                           14 CLINICAL PHARMACOLOGY
-5 WARNINGS AND PRECAUTIONS                                                                    14.1 Mechanism of Action
-5.1 Management of Acute Allergic Reactions                                                    18 CLINICAL TRIAL RESULTS AND SUPPORTING DATA
-5.2 Altered Immunocompetence                                                                  FOR EUA
-5.3 Limitations of Vaccine Effectiveness                                                      19 HOW SUPPLIED/STORAGE AND HANDLING
-6 OVERALL SAFETY SUMMARY                                                                      20 PATIENT COUNSELING INFORMATION
-6.1 Clinical Trials Experience                                                                21 CONTACT INFORMATION
-8 REQUIREMENTS AND INSTRUCTIONS FOR                                                           *Sections or subsections omitted from the full prescribing
-REPORTING ADVERSE EVENTS AND VACCINE                                                          information are not listed
-ADMINISTRATION ERRORS
+FULL EUA PRESCRIBING INFORMATION: CONTENTS*                                                   8 REQUIREMENTS AND INSTRUCTIONS FOR
+1 AUTHORIZED USE                                                                              REPORTING ADVERSE EVENTS AND VACCINE
+2 DOSAGE AND ADMINISTRATION                                                                   ADMINISTRATION ERRORS
+2.1 Preparation for Administration                                                            10 DRUG INTERACTIONS
+2.2 Administration                                                                            11 USE IN SPECIFIC POPULATIONS
+2.3 Dosing and Schedule                                                                       11.1 Pregnancy
+3 DOSAGE FORMS AND STRENGTHS                                                                  11.2 Lactation
+4 CONTRAINDICATIONS                                                                           11.3 Pediatric Use
+5 WARNINGS AND PRECAUTIONS                                                                    11.4 Geriatric Use
+5.1 Management of Acute Allergic Reactions                                                    13 DESCRIPTION
+5.2 Myocarditis and Pericarditis                                                              14 CLINICAL PHARMACOLOGY
+5.3 Altered Immunocompetence                                                                  14.1 Mechanism of Action
+5.4 Limitations of Vaccine Effectiveness                                                      18 CLINICAL TRIAL RESULTS AND SUPPORTING DATA
+6 OVERALL SAFETY SUMMARY                                                                      FOR EUA
+6.1 Clinical Trials Experience                                                                19 HOW SUPPLIED/STORAGE AND HANDLING
+6.2 Post-Authorization Experience                                                             20 PATIENT COUNSELING INFORMATION
+21 CONTACT INFORMATION
+*Sections or subsections omitted from the full prescribing
+information are not listed
 ______________________________________________________________________________
 FULL EMERGENCY USE AUTHORIZATION (EUA) PRESCRIBING INFORMATION
 1  AUTHORIZED USE
@@ -308,17 +326,17 @@ For intramuscular injection only.
 does not contain a preservative and must be thawed prior to administration.
 •   Remove the required number of vial(s) from storage and thaw each vial before use
 following the instructions below.
-Revised: Mar/31/2021                                                                          9
+Revised: Jun/24/2021                                                                          9
 
 Vial                                                                                                 Thaw in Refrigerator                                                                       Thaw at Room Temperature
 Maximum                                                                                              Thaw in refrigerated conditions                                                            Alternatively, thaw at room
-11-Dose Vial                                                                                         between 2° to 8°C for 2 hours                                                              temperature between 15° to
-(range: 10-11                                                                                        and 30 minutes. Let each vial                                                              25°C for 1 hour.
+11-Dose Vial                                                                                         between 2 to 8C for 2 hours                                                              temperature between 15 to
+(range: 10-11                                                                                        and 30 minutes. Let each vial                                                              25C for 1 hour.
 doses)                                                                                               stand at room temperature for 15
                                                                                                      minutes before administering.
 Maximum                                                                                              Thaw in refrigerated conditions                                                            Alternatively, thaw at room
-15-Dose Vial                                                                                         between 2° to 8°C for 3 hours.                                                             temperature between 15° to
-(range: 13-15                                                                                        Let each vial stand at room                                                                25°C for 1 hour and 30
+15-Dose Vial                                                                                         between 2 to 8C for 3 hours.                                                             temperature between 15 to
+(range: 13-15                                                                                        Let each vial stand at room                                                                25C for 1 hour and 30
 doses)                                                                                               temperature for 15 minutes                                                                 minutes.
                                                                                                      before administering.
 •                                                                                                    After thawing, do not refreeze.
@@ -351,7 +369,7 @@ particulates. During the visual inspection,
 •   verify the final dosing volume of 0.5 mL.
 •   confirm there are no other particulates and that no discoloration is observed.
 •   do not administer if vaccine is discolored or contains other particulate matter.
-Revised: Mar/31/2021                                                                                 10
+Revised: Jun/24/2021                                                                                 10
 
 Administer the Moderna COVID-19 Vaccine intramuscularly.
 2.3 Dosing and Schedule
@@ -374,19 +392,30 @@ Appropriate medical treatment to manage immediate allergic reactions must be imm
 available in the event an acute anaphylactic reaction occurs following administration of the
 Moderna COVID-19 Vaccine.
 Monitor Moderna COVID-19 Vaccine recipients for the occurrence of immediate adverse
-reactions according to the Centers for Disease Control and Prevention guidelines
+reactions according to the Centers for Disease Control and Prevention (CDC) guidelines
 (https://www.cdc.gov/vaccines/covid-19/clinical-considerations/managing-anaphylaxis.html).
-5.2  Altered Immunocompetence
+5.2  Myocarditis and Pericarditis
+Reports of adverse events following use of the Moderna COVID-19 Vaccine under EUA suggest
+increased risks of myocarditis and pericarditis, particularly following the second dose. Typically,
+onset of symptoms has been within a few days following receipt of the Moderna COVID-19
+Vaccine. Available data from short-term follow-up suggest that most individuals have had
+resolution of symptoms, but information is not yet available about potential long-term sequelae.
+The decision to administer the Moderna COVID-19 Vaccine to an individual with a history of
+myocarditis or pericarditis should take into account the individual’s clinical circumstances. The
+CDC has published clinical considerations relevant to myocarditis and pericarditis associated
+with administration of the Moderna COVID-19 Vaccine (https://www.cdc.gov/vaccines/covid-
+19/clinical-considerations/myocarditis.html).
+Revised: Jun/24/2021                                                                                  11
+
+5.3  Altered Immunocompetence
 Immunocompromised persons, including individuals receiving immunosuppressive therapy, may
 have a diminished response to the Moderna COVID-19 Vaccine.
-5.3  Limitations of Vaccine Effectiveness
+5.4  Limitations of Vaccine Effectiveness
 The Moderna COVID-19 Vaccine may not protect all vaccine recipients.
 6  OVERALL SAFETY SUMMARY
 It is MANDATORY for vaccination providers to report to the Vaccine Adverse Event
 Reporting System (VAERS) all vaccine administration errors, all serious adverse events,
 cases of Multi-inflammatory Syndrome (MIS) in adults, and hospitalized or fatal cases of
-Revised: Mar/31/2021                                                                            11
-
 COVID-19 following vaccination with the Moderna COVID-19 Vaccine. To the extent
 feasible, provide a copy of the VAERS form to ModernaTX, Inc. Please see the
 REQUIREMENTS AND INSTRUCTIONS FOR REPORTING ADVERSE EVENTS AND
@@ -398,6 +427,8 @@ chills (45.4%), nausea/vomiting (23.0%), axillary swelling/tenderness (19.8%), f
 swelling at the injection site (14.7%), and erythema at the injection site (10.0%).
 Severe allergic reactions, including anaphylaxis, have been reported following administration of
 the Moderna COVID-19 Vaccine during mass vaccination outside of clinical trials.
+Myocarditis and pericarditis have been reported following administration of the Moderna
+COVID-19 Vaccine during mass vaccination outside of clinical trials.
 6.1  Clinical Trials Experience
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates
 observed in the clinical trials of a vaccine cannot be directly compared with rates in the clinical
@@ -412,6 +443,8 @@ mean age of the population was 52 years (range 18-95); 22,831 (75.2%) of partici
 to 64 years of age and 7,520 (24.8%) of participants were 65 years of age and older. Overall,
 52.7% were male, 47.3% were female, 20.5% were Hispanic or Latino, 79.2% were White,
 10.2% were African American, 4.6% were Asian, 0.8% were American Indian or Alaska Native,
+Revised: Jun/24/2021                                                                                    12
+
 0.2% were Native Hawaiian or Pacific Islander, 2.1% were other races, and 2.1% were
 Multiracial. Demographic characteristics were similar among participants who received Moderna
 COVID-19 Vaccine and those who received placebo.
@@ -423,64 +456,62 @@ participants receiving placebo (n=15,163) with at least 1 documented dose. Solic
 reactions were reported more frequently among vaccine participants than placebo participants.
 The reported number and percentage of the solicited local and systemic adverse reactions by age
 group and dose are presented in Table 1 and Table 2, respectively.
-Revised: Mar/31/2021                                                                                    12
-
 Table 1: Number and Percentage of Participants With Solicited Local and Systemic
 Adverse Reactions Within 7 Days* After Each Dose in Participants 18-64 Years (Solicited
 Safety Set, Dose 1 and Dose 2)
-                                                                                                       Moderna COVID-19 Vaccine                Placeboa
-                                                                                          Dose 1       Dose 2                     Dose 1       Dose 2
-                                                                                          (N=11,406)   (N=10,985)                 (N=11,407)   (N=10,918)
-                                                                                          n (%)        n (%)                      n (%)        n (%)
+                                                                                                                  Moderna COVID-19 Vaccine                Placeboa
+                                                                                                     Dose 1       Dose 2                     Dose 1       Dose 2
+                                                                                                     (N=11,406)   (N=10,985)                 (N=11,407)   (N=10,918)
+                                                                                                     n (%)        n (%)                      n (%)        n (%)
 Local Adverse
 Reactions
-Pain                                                                                      9,908        9,873                      2,177        2,040
-                                                                                          (86.9)       (89.9)                     (19.1)       (18.7)
-Pain, Grade 3b                                                                            366          506                        23           22
-                                                                                          (3.2)        (4.6)                      (0.2)        (0.2)
-Axillary                                                                                  1,322        1,775                      567          470
-swelling/tenderness                                                                       (11.6)       (16.2)                     (5.0)        (4.3)
-Axillary                                                                                  37           46                         13           11
-swelling/tenderness,                                                                      (0.3)        (0.4)                      (0.1)        (0.1)
+Pain                                                                                                 9,908        9,873                      2,177        2,040
+                                                                                                     (86.9)       (89.9)                     (19.1)       (18.7)
+Pain, Grade 3b                                                                                       366          506                        23           22
+                                                                                                     (3.2)        (4.6)                      (0.2)        (0.2)
+Axillary                                                                                             1,322        1,775                      567          470
+swelling/tenderness                                                                                  (11.6)       (16.2)                     (5.0)        (4.3)
+Axillary                                                                                             37           46                         13           11
+swelling/tenderness,                                                                                 (0.3)        (0.4)                      (0.1)        (0.1)
 Grade 3b
-Swelling (hardness)                                                                       767          1,389                      34           36
-≥25 mm                                                                                    (6.7)        (12.6)                     (0.3)        (0.3)
-Swelling (hardness),                                                                      62           182                        3            4
-Grade 3c                                                                                  (0.5)        (1.7)                      (<0.1)       (<0.1)
-Erythema (redness)                                                                        344          982                        47           43
-≥25 mm                                                                                    (3.0)        (8.9)                      (0.4)        (0.4)
-Erythema (redness),                                                                       34           210                        11           12
-Grade 3c                                                                                  (0.3)        (1.9)                      (<0.1)       (0.1)
+Swelling (hardness)                                                                                  767          1,389                      34           36
+≥25 mm                                                                                               (6.7)        (12.6)                     (0.3)        (0.3)
+Swelling (hardness),                                                                                 62           182                        3            4
+Grade 3c                                                                                             (0.5)        (1.7)                      (<0.1)       (<0.1)
+Erythema (redness)                                                                                   344          982                        47           43
+≥25 mm                                                                                               (3.0)        (8.9)                      (0.4)        (0.4)
+Erythema (redness),                                                                                  34           210                        11           12
+Grade 3c                                                                                             (0.3)        (1.9)                      (<0.1)       (0.1)
 Systemic Adverse
 Reactions
-Fatigue                                                                                   4,384        7,430                      3,282        2,687
-                                                                                          (38.4)       (67.6)                     (28.8)       (24.6)
-Fatigue, Grade 3d                                                                         120          1,174                      83           86
-                                                                                          (1.1)        (10.7)                     (0.7)        (0.8)
-Fatigue, Grade 4e                                                                         1            0                          0            0
-                                                                                          (<0.1)       (0)                        (0)          (0)
-Headache                                                                                  4,030        6,898                      3,304        2,760
-                                                                                          (35.3)       (62.8)                     (29.0)       (25.3)
-Headache, Grade 3f                                                                        219          553                        162          129
-                                                                                          (1.9)        (5.0)                      (1.4)        (1.2)
-Myalgia                                                                                   2,699        6,769                      1,628        1,411
-                                                                                          (23.7)       (61.6)                     (14.3)       (12.9)
-Myalgia, Grade 3d                                                                         73           1,113                      38           42
-                                                                                          (0.6)        (10.1)                     (0.3)        (0.4)
-Arthralgia                                                                                1,893        4,993                      1,327        1,172
-                                                                                          (16.6)       (45.5)                     (11.6)       (10.7)
-Arthralgia, Grade 3d                                                                      47           647                        29           37
-                                                                                          (0.4)        (5.9)                      (0.3)        (0.3)
-Arthralgia, Grade 4e                                                                      1            0                          0            0
-                                                                                          (<0.1)       (0)                        (0)          (0)
-Chills                                                                                    1,051        5,341                      730          658
-                                                                                          (9.2)        (48.6)                     (6.4)        (6.0)
-Revised: Mar/31/2021                                                                                                                           13
+Fatigue                                                                                              4,384        7,430                      3,282        2,687
+                                                                                                     (38.4)       (67.6)                     (28.8)       (24.6)
+Fatigue, Grade 3d                                                                                    120          1,174                      83           86
+                                                                                                     (1.1)        (10.7)                     (0.7)        (0.8)
+Fatigue, Grade 4e                                                                                    1            0                          0            0
+                                                                                                     (<0.1)       (0)                        (0)          (0)
+Revised: Jun/24/2021                                                                                                                                      13
 
                                                                                                                                  Moderna COVID-19 Vaccine                Placeboa
                                                                                                                     Dose 1       Dose 2                     Dose 1       Dose 2
                                                                                                                     (N=11,406)   (N=10,985)                 (N=11,407)   (N=10,918)
                                                                                                                     n (%)        n (%)                      n (%)        n (%)
+Headache                                                                                                            4,030        6,898                      3,304        2,760
+                                                                                                                    (35.3)       (62.8)                     (29.0)       (25.3)
+Headache, Grade 3f                                                                                                  219          553                        162          129
+                                                                                                                    (1.9)        (5.0)                      (1.4)        (1.2)
+Myalgia                                                                                                             2,699        6,769                      1,628        1,411
+                                                                                                                    (23.7)       (61.6)                     (14.3)       (12.9)
+Myalgia, Grade 3d                                                                                                   73           1,113                      38           42
+                                                                                                                    (0.6)        (10.1)                     (0.3)        (0.4)
+Arthralgia                                                                                                          1,893        4,993                      1,327        1,172
+                                                                                                                    (16.6)       (45.5)                     (11.6)       (10.7)
+Arthralgia, Grade 3d                                                                                                47           647                        29           37
+                                                                                                                    (0.4)        (5.9)                      (0.3)        (0.3)
+Arthralgia, Grade 4e                                                                                                1            0                          0            0
+                                                                                                                    (<0.1)       (0)                        (0)          (0)
+Chills                                                                                                              1,051        5,341                      730          658
+                                                                                                                    (9.2)        (48.6)                     (6.4)        (6.0)
 Chills, Grade 3g                                                                                                    17           164                        8            15
                                                                                                                     (0.1)        (1.5)                      (<0.1)       (0.1)
 Nausea/vomiting                                                                                                     1,068        2,348                      908          801
@@ -506,81 +537,81 @@ e Grade 4 fatigue, arthralgia: Defined as requires emergency room visit or hospi
 f Grade 3 headache: Defined as significant; any use of prescription pain reliever or prevents daily activity.
 g Grade 3 chills: Defined as prevents daily activity and requires medical intervention.
 h Grade 3 nausea/vomiting: Defined as prevents daily activity, requires outpatient intravenous hydration.
-i Grade 3 fever: Defined as ≥39.0° - ≤40.0°C / ≥102.1° - ≤104.0°F.
+i Grade 3 fever: Defined as ≥39.0° - ≤40.0C / ≥102.1° - ≤104.0F.
 j Grade 4 fever: Defined as >40.0°C / >104.0°F.
+Revised: Jun/24/2021                                                                                                14
+
 Table 2: Number and Percentage of Participants With Solicited Local and Systemic
 Adverse Reactions Within 7 Days* After Each Dose in Participants 65 Years and Older
 (Solicited Safety Set, Dose 1 and Dose 2)
-                                                                                                                                 Moderna COVID-19 Vaccine   Placeboa
-                                                                                                                    Dose 1       Dose 2                     Dose 1       Dose 2
-                                                                                                                    (N=3,762)    (N=3,692)                  (N=3,748)    (N=3,648)
-                                                                                                                    n (%)        n (%)                      n (%)        n (%)
+                                                                                                  Moderna COVID-19 Vaccine               Placeboa
+                                                                                      Dose 1      Dose 2                     Dose 1      Dose 2
+                                                                                      (N=3,762)   (N=3,692)                  (N=3,748)   (N=3,648)
+                                                                                      n (%)       n (%)                      n (%)       n (%)
 Local Adverse
 Reactions
-Pain                                                                                                                2,782        3,070                      481          437
-                                                                                                                    (74.0)       (83.2)                     (12.8)       (12.0)
-Pain, Grade 3b                                                                                                      50           98                         32           18
-                                                                                                                    (1.3)        (2.7)                      (0.9)        (0.5)
-Axillary                                                                                                            231          315                        155          97
-swelling/tenderness                                                                                                 (6.1)        (8.5)                      (4.1)        (2.7)
-Axillary                                                                                                            12           21                         14           8
-swelling/tenderness,                                                                                                (0.3)        (0.6)                      (0.4)        (0.2)
+Pain                                                                                  2,782       3,070                      481         437
+                                                                                      (74.0)      (83.2)                     (12.8)      (12.0)
+Pain, Grade 3b                                                                        50          98                         32          18
+                                                                                      (1.3)       (2.7)                      (0.9)       (0.5)
+Axillary                                                                              231         315                        155         97
+swelling/tenderness                                                                   (6.1)       (8.5)                      (4.1)       (2.7)
+Axillary                                                                              12          21                         14          8
+swelling/tenderness,                                                                  (0.3)       (0.6)                      (0.4)       (0.2)
 Grade 3b
-Revised: Mar/31/2021                                                                                                                                                     14
-
-                                                                                       Moderna COVID-19 Vaccine                                                                                                       Placeboa
-                                   Dose 1                                              Dose 2                                                                                                             Dose 1      Dose 2
-                                   (N=3,762)                                           (N=3,692)                                                                                                          (N=3,748)   (N=3,648)
-                                   n (%)                                               n (%)                                                                                                              n (%)       n (%)
-Swelling (hardness)                165                                                 400                                                                                                                18          13
-≥25 mm                             (4.4)                                               (10.8)                                                                                                             (0.5)       (0.4)
-Swelling (hardness),               20                                                  72                                                                                                                 3           7
-Grade 3c                           (0.5)                                               (2.0)                                                                                                              (<0.1)      (0.2)
-Erythema (redness)                 86                                                  275                                                                                                                20          13
-≥25 mm                             (2.3)                                               (7.5)                                                                                                              (0.5)       (0.4)
-Erythema (redness),                8                                                   77                                                                                                                 2           3
-Grade 3c                           (0.2)                                               (2.1)                                                                                                              (<0.1)      (<0.1)
+Swelling (hardness)                                                                   165         400                        18          13
+≥25 mm                                                                                (4.4)       (10.8)                     (0.5)       (0.4)
+Swelling (hardness),                                                                  20          72                         3           7
+Grade 3c                                                                              (0.5)       (2.0)                      (<0.1)      (0.2)
+Erythema (redness)                                                                    86          275                        20          13
+≥25 mm                                                                                (2.3)       (7.5)                      (0.5)       (0.4)
+Erythema (redness),                                                                   8           77                         2           3
+Grade 3c                                                                              (0.2)       (2.1)                      (<0.1)      (<0.1)
 Systemic Adverse
 Reactions
-Fatigue                            1,251                                               2,152                                                                                                              851         716
-                                   (33.3)                                              (58.3)                                                                                                             (22.7)      (19.6)
-Fatigue, Grade 3d                  30                                                  254                                                                                                                22          20
-                                   (0.8)                                               (6.9)                                                                                                              (0.6)       (0.5)
-Headache                           921                                                 1,704                                                                                                              723         650
-                                   (24.5)                                              (46.2)                                                                                                             (19.3)      (17.8)
-Headache, Grade 3e                 52                                                  106                                                                                                                34          33
-                                   (1.4)                                               (2.9)                                                                                                              (0.9)       (0.9)
-Myalgia                            742                                                 1,739                                                                                                              443         398
-                                   (19.7)                                              (47.1)                                                                                                             (11.8)      (10.9)
-Myalgia, Grade 3d                  17                                                  205                                                                                                                9           10
-                                   (0.5)                                               (5.6)                                                                                                              (0.2)       (0.3)
-Arthralgia                         618                                                 1,291                                                                                                              456         397
-                                   (16.4)                                              (35.0)                                                                                                             (12.2)      (10.9)
-Arthralgia, Grade 3d               13                                                  123                                                                                                                8           7
-                                   (0.3)                                               (3.3)                                                                                                              (0.2)       (0.2)
-Chills                             202                                                 1,141                                                                                                              148         151
-                                   (5.4)                                               (30.9)                                                                                                             (4.0)       (4.1)
-Chills, Grade 3f                   7                                                   27                                                                                                                 6           2
-                                   (0.2)                                               (0.7)                                                                                                              (0.2)       (<0.1)
-Nausea/vomiting                    194                                                 437                                                                                                                166         133
-                                   (5.2)                                               (11.8)                                                                                                             (4.4)       (3.6)
-Nausea/vomiting,                   4                                                   10                                                                                                                 4           3
-Grade 3g                           (0.1)                                               (0.3)                                                                                                              (0.1)       (<0.1)
-Nausea/vomiting,                   0                                                   1                                                                                                                  0           0
-Grade 4h                           (0)                                                 (<0.1)                                                                                                             (0)         (0)
-Fever                              10                                                  370                                                                                                                7           4
-                                   (0.3)                                               (10.0)                                                                                                             (0.2)       (0.1)
-Fever, Grade 3i                    1                                                   18                                                                                                                 1           0
-                                   (<0.1)                                              (0.5)                                                                                                              (<0.1)      (0)
-Fever, Grade 4j                    0                                                   1                                                                                                                  2           1
-                                   (0)                                                 (<0.1)                                                                                                             (<0.1)      (<0.1)
-Use of antipyretic or              673                                                 1,546                                                                                                              477         329
-pain medication                    (17.9)                                              (41.9)                                                                                                             (12.7)      (9.0)
-                                                                                       * 7 days included day of vaccination and the subsequent 6 days. Events and use of antipyretic or pain medication
-                                   were collected in the electronic diary (e-diary).
-a Placebo was a saline solution.
-Revised: Mar/31/2021                                                                                                                                                                                                  15
+Fatigue                                                                               1,251       2,152                      851         716
+                                                                                      (33.3)      (58.3)                     (22.7)      (19.6)
+Fatigue, Grade 3d                                                                     30          254                        22          20
+                                                                                      (0.8)       (6.9)                      (0.6)       (0.5)
+Headache                                                                              921         1,704                      723         650
+                                                                                      (24.5)      (46.2)                     (19.3)      (17.8)
+Headache, Grade 3e                                                                    52          106                        34          33
+                                                                                      (1.4)       (2.9)                      (0.9)       (0.9)
+Myalgia                                                                               742         1,739                      443         398
+                                                                                      (19.7)      (47.1)                     (11.8)      (10.9)
+Myalgia, Grade 3d                                                                     17          205                        9           10
+                                                                                      (0.5)       (5.6)                      (0.2)       (0.3)
+Arthralgia                                                                            618         1,291                      456         397
+                                                                                      (16.4)      (35.0)                     (12.2)      (10.9)
+Arthralgia, Grade 3d                                                                  13          123                        8           7
+                                                                                      (0.3)       (3.3)                      (0.2)       (0.2)
+Chills                                                                                202         1,141                      148         151
+                                                                                      (5.4)       (30.9)                     (4.0)       (4.1)
+Chills, Grade 3f                                                                      7           27                         6           2
+                                                                                      (0.2)       (0.7)                      (0.2)       (<0.1)
+Nausea/vomiting                                                                       194         437                        166         133
+                                                                                      (5.2)       (11.8)                     (4.4)       (3.6)
+Revised: Jun/24/2021                                                                                                                     15
 
+                                                                                                                                Moderna COVID-19 Vaccine               Placeboa
+                                                                                                                    Dose 1      Dose 2                     Dose 1      Dose 2
+                                                                                                                    (N=3,762)   (N=3,692)                  (N=3,748)   (N=3,648)
+                                                                                                                    n (%)       n (%)                      n (%)       n (%)
+Nausea/vomiting,                                                                                                    4           10                         4           3
+Grade 3g                                                                                                            (0.1)       (0.3)                      (0.1)       (<0.1)
+Nausea/vomiting,                                                                                                    0           1                          0           0
+Grade 4h                                                                                                            (0)         (<0.1)                     (0)         (0)
+Fever                                                                                                               10          370                        7           4
+                                                                                                                    (0.3)       (10.0)                     (0.2)       (0.1)
+Fever, Grade 3i                                                                                                     1           18                         1           0
+                                                                                                                    (<0.1)      (0.5)                      (<0.1)      (0)
+Fever, Grade 4j                                                                                                     0           1                          2           1
+                                                                                                                    (0)         (<0.1)                     (<0.1)      (<0.1)
+Use of antipyretic or                                                                                               673         1,546                      477         329
+pain medication                                                                                                     (17.9)      (41.9)                     (12.7)      (9.0)
+* 7 days included day of vaccination and the subsequent 6 days. Events and use of antipyretic or pain medication
+were collected in the electronic diary (e-diary).
+a Placebo was a saline solution.
 b Grade 3 pain and axillary swelling/tenderness: Defined as any use of prescription pain reliever; prevents daily
 activity.
 c Grade 3 swelling and erythema: Defined as >100 mm / >10 cm.
@@ -589,7 +620,7 @@ e Grade 3 headache: Defined as significant; any use of prescription pain relieve
 f Grade 3 chills: Defined as prevents daily activity and requires medical intervention.
 g Grade 3 Nausea/vomiting: Defined as prevents daily activity, requires outpatient intravenous hydration.
 h Grade 4 Nausea/vomiting: Defined as requires emergency room visit or hospitalization for hypotensive shock.
-i Grade 3 fever: Defined as ≥39.0° - ≤40.0°C / ≥102.1° - ≤104.0°F.
+i Grade 3 fever: Defined as ≥39.0° - ≤40.0C / ≥102.1° - ≤104.0F.
 j Grade 4 fever: Defined as >40.0°C / >104.0°F.
 Solicited local and systemic adverse reactions reported following administration of Moderna
 COVID-19 Vaccine had a median duration of 1 to 3 days.
@@ -606,6 +637,8 @@ by 23.9% of participants (n=3,632) who received Moderna COVID-19 Vaccine and 21.
 participants (n=3,277) who received placebo. In these analyses, 87.9% of study participants had
 at least 28 days of follow-up after Dose 2.
 Lymphadenopathy-related events that were not necessarily captured in the 7-day e-diary were
+Revised: Jun/24/2021                                                                                                16
+
 reported by 1.1% of vaccine recipients and 0.6% of placebo recipients. These events included
 lymphadenopathy, lymphadenitis, lymph node pain, vaccination-site lymphadenopathy,
 injection-site lymphadenopathy, and axillary mass, which were plausibly related to vaccination.
@@ -622,8 +655,6 @@ Vaccine group (one of which was a serious adverse event), which occurred 22, 28,
 after vaccination, and one in the placebo group which occurred 17 days after vaccination.
 Currently available information on Bell’s palsy is insufficient to determine a causal relationship
 with the vaccine.
-Revised: Mar/31/2021                                                                                                16
-
 There were no other notable patterns or numerical imbalances between treatment groups for
 specific categories of adverse events (including other neurologic, neuro-inflammatory, and
 thrombotic events) that would suggest a causal relationship to Moderna COVID-19 Vaccine.
@@ -643,6 +674,15 @@ after vaccination and was likely related to vaccination.
 There were no other notable patterns or imbalances between treatment groups for specific
 categories of serious adverse events (including neurologic, neuro-inflammatory, and thrombotic
 events) that would suggest a causal relationship to Moderna COVID-19 Vaccine.
+Revised: Jun/24/2021                                                                                   17
+
+6.2  Post-Authorization Experience
+The following adverse reactions have been identified during post-authorization use of the
+Moderna COVID-19 Vaccine. Because these reactions are reported voluntarily, it is not always
+possible to reliably estimate their frequency or establish a causal relationship to vaccine
+exposure.
+Cardiac Disorders: myocarditis, pericarditis
+Immune System Disorders: anaphylaxis
 8  REQUIREMENTS AND INSTRUCTIONS FOR REPORTING ADVERSE EVENTS
 AND VACCINE ADMINISTRATION ERRORS
 See Overall Safety Summary (Section 6) for additional information.
@@ -658,8 +698,6 @@ the Vaccine Adverse Event Reporting System (VAERS)
 •   A life-threatening adverse event;
 •   Inpatient hospitalization or prolongation of existing hospitalization;
 •   A persistent or significant incapacity or substantial disruption of the ability to conduct
-Revised: Mar/31/2021                                                                                  17
-
 normal life functions;
 •   A congenital anomaly/birth defect;
 •   An important medical event that based on appropriate medical judgement may jeopardize
@@ -674,6 +712,8 @@ complete and submit a VAERS form to FDA using one of the following methods:
 free information line at 1-800-822-7967 or send an email to info@vaers.org.
 IMPORTANT: When reporting adverse events or vaccine administration errors to
 VAERS, please complete the entire form with detailed information. It is important that the
+Revised: Jun/24/2021                                                                             18
+
 information reported to FDA be as detailed and complete as possible. Information to
 include:
 •   Patient demographics (e.g., patient name, date of birth)
@@ -701,8 +741,6 @@ a.  In Box 13, provide the name and contact information of the prescribing healt
 provider or institutional designee who is responsible for the report.
 b.  In Box 14, provide the name and contact information of the best doctor/healthcare
 professional to contact about the adverse event.
-Revised: Mar/31/2021                                                                            18
-
 c.  In Box 15, provide the address of the facility where vaccine was given (NOT the
 healthcare provider’s office address).
 Other Reporting Instructions
@@ -710,9 +748,11 @@ Vaccination providers may report to VAERS other adverse events that are not requ
 reported using the contact information above.
 To the extent feasible, report adverse events to ModernaTX, Inc. using the contact information
 below or by providing a copy of the VAERS form to ModernaTX, Inc.
-Email                                                                                               Fax number       Telephone number
-ModernaPV@modernatx.com                                                                             1-866-599-1342   1-866-MODERNA
-(1-866-663-3762)
+Email                                                                                            Fax number       Telephone number
+ModernaPV@modernatx.com                                                                          1-866-599-1342   1-866-MODERNA
+                                                                                                                  (1-866-663-3762)
+Revised: Jun/24/2021                                                                             19
+
 10   DRUG INTERACTIONS
 There are no data to assess the concomitant administration of the Moderna COVID-19 Vaccine
 with other vaccines.
@@ -735,8 +775,6 @@ included in a single human dose of Moderna COVID-19 Vaccine was administered to 
 by the intramuscular route on four occasions: 28 and 14 days prior to mating, and on gestation
 days 1 and 13. No vaccine-related adverse effects on female fertility, fetal development, or
 postnatal development were reported in the study.
-Revised: Mar/31/2021                                                                                19
-
 11.2   Lactation
 Risk Summary
 Data are not available to assess the effects of Moderna COVID-19 Vaccine on the breastfed
@@ -748,6 +786,8 @@ than 18 years of age.
 11.4  Geriatric Use
 Clinical studies of Moderna COVID-19 Vaccine included participants 65 years of age and older
 receiving vaccine or placebo, and their data contribute to the overall assessment of safety and
+Revised: Jun/24/2021                                                                                20
+
 efficacy. In an ongoing Phase 3 clinical study, 24.8% (n=7,520) of participants were 65 years of
 age and older and 4.6% (n=1,399) of participants were 75 years of age and older. Vaccine
 efficacy in participants 65 years of age and older was 86.4% (95% CI 61.4, 95.2) compared to
@@ -767,8 +807,6 @@ cholesterol, and 1,2-distearoyl-sn-glycero-3-phosphocholine [DSPC]), 0.31 mg tro
 and 43.5 mg sucrose.
 Moderna COVID-19 Vaccine does not contain a preservative.
 The vial stoppers are not made with natural rubber latex.
-Revised: Mar/31/2021                                                                               20
-
 14  CLINICAL PHARMACOLOGY
 14.1 Mechanism of Action
 The nucleoside-modified mRNA in the Moderna COVID-19 Vaccine is formulated in lipid
@@ -786,6 +824,8 @@ immunocompromised and those with a known history of SARS-CoV-2 infection were ex
 from the study. Participants with no known history of SARS-CoV-2 infection but with positive
 laboratory results indicative of infection at study entry were included. The study allowed for the
 inclusion of participants with stable pre-existing medical conditions, defined as disease not
+Revised: Jun/24/2021                                                                                 21
+
 requiring significant change in therapy or hospitalization for worsening disease during the 3
 months before enrollment, as well as participants with stable human immunodeficiency virus
 (HIV) infection. A total of 30,420 participants were randomized equally to receive 2 doses of the
@@ -808,14 +848,14 @@ at least two of the following systemic symptoms: fever (≥38ºC), chills, myalg
 throat, new olfactory and taste disorder(s); or the participant must have experienced at least one
 of the following respiratory signs/symptoms: cough, shortness of breath or difficulty breathing,
 or clinical or radiographical evidence of pneumonia; and the participant must have at least one
-Revised: Mar/31/2021                                                                                  21
-
 NP swab, nasal swab, or saliva sample (or respiratory sample, if hospitalized) positive for SARS-
 CoV-2 by RT-PCR. COVID-19 cases were adjudicated by a Clinical Adjudication Committee.
 The median length of follow up for efficacy for participants in the study was 9 weeks post Dose
 2. There were 11 COVID-19 cases in the Moderna COVID-19 Vaccine group and 185 cases in
 the placebo group, with a vaccine efficacy of 94.1% (95% confidence interval of 89.3% to
 96.8%).
+Revised: Jun/24/2021                                                                                  22
+
 Table 3: Primary Efficacy Analysis: COVID-19* in Participants 18 Years of Age and Older
 Starting 14 Days After Dose 2 per Adjudication Committee Assessments - Per-Protocol Set
                                                                                                               Moderna COVID-19 Vaccine                                             Placebo
@@ -850,8 +890,6 @@ respiratory symptom. Cases starting 14 days after Dose 2.
 Severe COVID-19 was defined based on confirmed COVID-19 as per the primary efficacy
 endpoint case definition, plus any of the following: Clinical signs indicative of severe systemic
 illness, respiratory rate ≥30 per minute, heart rate ≥125 beats per minute, SpO2 ≤93% on room
-Revised: Mar/31/2021                                                                                          22
-
 air at sea level or PaO2/FIO2 <300 mm Hg; or respiratory failure or ARDS (defined as needing
 high-flow oxygen, non-invasive or mechanical ventilation, or ECMO), evidence of shock
 (systolic blood pressure <90 mmHg, diastolic BP <60 mmHg or requiring vasopressors); or
@@ -859,6 +897,8 @@ significant acute renal, hepatic, or neurologic dysfunction; or admission to an 
 or death.
 Among all participants in the Per-Protocol Set analysis, which included COVID-19 cases
 confirmed by an adjudication committee, no cases of severe COVID-19 were reported in the
+Revised: Jun/24/2021                                                                                          23
+
 Moderna COVID-19 Vaccine group compared with 30 cases reported in the placebo group
 (incidence rate 9.138 per 1,000 person-years). One PCR-positive case of severe COVID-19 in a
 vaccine recipient was awaiting adjudication at the time of the analysis.
@@ -883,12 +923,12 @@ Do not refreeze once thawed.
 Transportation of Thawed Vials at 2°C to 8°C (35°F to 46°F)
 If transport at -50° to -15°C (-58° to 5°F) is not feasible, available data support transportation of
 one or more thawed vials for up to 12 hours at 2° to 8°C (35° to 46°F) when shipped using
-Revised: Mar/31/2021                                                                                    23
-
 shipping containers which have been qualified to maintain 2° to 8°C (35° to 46°F) and under
 routine road and air transport conditions with shaking and vibration minimized. Once thawed and
 transported at 2° to 8°C (35° to 46°F), vials should not be refrozen and should be stored at 2° to
 8°C (35° to 46°F) until use.
+Revised: Jun/24/2021                                                                                    24
+
 20  PATIENT COUNSELING INFORMATION
 Advise the recipient or caregiver to read the Fact Sheet for Recipients and Caregivers.
 The vaccination provider must include vaccination information in the state/local jurisdiction’s
@@ -897,8 +937,8 @@ that more information about IISs can be found at:
 https://www.cdc.gov/vaccines/programs/iis/about.html.
 21  CONTACT INFORMATION
 For general questions, send an email or call the telephone number provided below.
-Email                                                                                                Telephone number
-medinfo@modernatx.com                                                                                1-866-MODERNA
+Email                                                                                             Telephone number
+medinfo@modernatx.com                                                                             1-866-MODERNA
 (1-866-663-3762)
 This EUA Prescribing Information may have been updated. For the most resent Full EUA
 Prescribing Information, please visit www.modernatx.com/covid19vaccine-eua.
@@ -906,5 +946,5 @@ Moderna US, Inc.
 Cambridge, MA 02139
 ©2021 ModernaTX, Inc. All rights reserved.
 Patent(s): www.modernatx.com/patents
-Revised: Mar/31/2021
-Revised: Mar/31/2021                                                                                 24
+Revised: Jun/24/2021
+Revised: Jun/24/2021                                                                              25
