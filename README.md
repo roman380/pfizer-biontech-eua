@@ -9,7 +9,7 @@ And also the same for [Fact Sheet for Healthcare Providers Administering Vaccine
 
 ## Things to Do Here with the Repository
 
-- walk over [commits](https://github.com/roman380/pfizer-biontech-eua/commits/main/cvdvaccine.com/Fact%20Sheet%20for%20Healthcare%20Providers%20Administering%20Vaccine.txt) on [Fact Sheet for Healthcare Providers Administering Vaccine.txt](https://github.com/roman380/pfizer-biontech-eua/blob/main/cvdvaccine.com/Fact%20Sheet%20for%20Healthcare%20Providers%20Administering%20Vaccine.txt) to see the changes
+- walk over [commits](https://github.com/roman380/pfizer-biontech-eua/commits/main/Fact%20Sheet%20for%20Healthcare%20Providers%20Administering%20Vaccine.txt) on [Fact Sheet for Healthcare Providers Administering Vaccine.txt](https://github.com/roman380/pfizer-biontech-eua/blob/main/cvdvaccine.com/Fact%20Sheet%20for%20Healthcare%20Providers%20Administering%20Vaccine.txt) to see the changes
 - have a look at [`source`](https://github.com/roman380/pfizer-biontech-eua/tree/main/cvdvaccine.com/source) to see harvested editions of the document
 
 ## Technology
