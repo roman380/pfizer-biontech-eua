@@ -8,42 +8,50 @@ Authorization (EUA) to permit the emergency use of the unapproved product,
 Pfizer-BioNTech COVID-19 Vaccine, for active immunization to prevent
 COVID-19 in individuals 12 years of age and older. Pfizer-BioNTech COVID-19
 Vaccine is authorized for use to provide:
-•   a two-dose primary series in individuals 12 years of age and older;
-•   a third primary series dose in individuals 12 years of age and older
+•   a two-dose primary series to individuals 12 years of age and older;
+•   a third primary series dose to individuals 12 years of age and older
 who have been determined to have certain kinds of
 immunocompromise; and
-•   a single booster dose in individuals:
-o                                                                                                       65 years of age and older
-o                                                                                                       18 through 64 years of age at high risk of severe COVID-19
-o                                                                                                       18 through 64 years of age whose frequent institutional or
-occupational exposure to SARS-CoV-2 puts them at high risk of
-serious complications of COVID-19 including severe COVID-19
+•   a single booster dose to the following individuals who have completed
+a primary series with Pfizer-BioNTech COVID-19 Vaccine or
+COMIRNATY:
+o                                                                                65 years of age and older
+o                                                                                18 through 64 years of age at high risk of severe COVID-19
+o                                                                                18 through 64 years of age with frequent institutional or
+occupational exposure to SARS-CoV-2
+•   a single booster dose to eligible individuals who have completed
+primary vaccination with a different authorized COVID-19 vaccine. The
+eligible population(s) and dosing interval for the heterologous booster
+dose are the same as those authorized for a booster dose of the
+vaccine used for primary vaccination.
 COMIRNATY (COVID-19 Vaccine, mRNA) is an FDA-approved COVID-19
 vaccine made by Pfizer for BioNTech that is indicated for active immunization
 to prevent COVID-19 in individuals 16 years of age and older. It is approved
 for use as a 2-dose primary series for the prevention of COVID-19 in
 individuals 16 years of age and older. It is also authorized for emergency use
 to provide:
-•   a two-dose primary series in individuals 12 through 15 years;
-•   a third primary series dose in individuals 12 years of age and older
+•   a two-dose primary series to individuals 12 through 15 years;
+•   a third primary series dose to individuals 12 years of age and older
 who have been determined to have certain kinds of
 immunocompromise; and
-•   a single booster dose in individuals:
-o                                                                                                       65 years of age and older
-o                                                                                                       18 through 64 years of age at high risk of severe COVID-19
-o                                                                                                       18 through 64 years of age whose frequent institutional or
-occupational exposure to SARS-CoV-2 puts them at high risk of
-serious complications of COVID-19 including severe COVID-19
+•   a single booster dose to the following individuals who have completed
+a primary series with Pfizer-BioNTech COVID-19 Vaccine or
+COMIRNATY:
+o                                                                                65 years of age and older
+o                                                                                18 through 64 years of age at high risk of severe COVID-19
+o                                                                                18 through 64 years of age with frequent institutional or
+                                                                                 occupational exposure to SARS-CoV-2
+                                                                                 •   a single booster dose to eligible individuals who have completed
+                                                                                 primary vaccination with a different authorized COVID-19 vaccine. The
+Revised: 20 October 2021                                                                                                                                 1
+
+eligible population(s) and dosing interval for the heterologous booster
+dose are the same as those authorized for a booster dose of the
+vaccine used for primary vaccination.
 The FDA-approved COMIRNATY (COVID-19 Vaccine, mRNA) and the
 EUA-authorized Pfizer-BioNTech COVID-19 Vaccine have the same
-formulation and can be used interchangeably to provide the COVID-19
-vaccination series.1
-1 The licensed vaccine has the same formulation as the EUA-authorized vaccine and the products
-can be used interchangeably to provide the vaccination series without presenting any safety or
-effectiveness concerns. The products are legally distinct with certain differences that do not impact
-safety or effectiveness.
-Revised: 22 September 2021                                                                              1
-
+formulation and can be used interchangeably to provide doses for COVID-19
+primary vaccination or a booster dose.1
 SUMMARY OF INSTRUCTIONS FOR COVID-19 VACCINATION PROVIDERS
 Vaccination providers enrolled in the federal COVID-19 Vaccination Program must
 report all vaccine administration errors, all serious adverse events, cases of
@@ -57,20 +65,30 @@ injection.
 Primary Series:
 The Pfizer-BioNTech COVID-19 Vaccine is administered as a primary series of two
 doses (0.3 mL each) 3 weeks apart in individuals 12 years of age or older.
-A third dose of the Pfizer-BioNTech COVID-19 Vaccine (0.3 mL) at least 28 days
-following the second dose is authorized for administration to individuals at least
-12 years of age who have undergone solid organ transplantation, or who are
-diagnosed with conditions that are considered to have an equivalent level of
-immunocompromise.
+A third primary series dose of the Pfizer-BioNTech COVID-19 Vaccine (0.3 mL) at
+least 28 days following the second dose is authorized for administration to
+individuals at least 12 years of age who have undergone solid organ
+transplantation, or who are diagnosed with conditions that are considered to have
+an equivalent level of immunocompromise.
 Booster Dose:
 A single Pfizer-BioNTech COVID-19 Vaccine booster dose (0.3 mL) may be
 administered intramuscularly at least 6 months after completing the primary series
 to individuals:
-•                                                                                    65 years of age and older
-•                                                                                    18 through 64 years of age at high risk of severe COVID-19
-•                                                                                    18 through 64 years of age whose frequent institutional or occupational
-exposure to SARS-CoV-2 puts them at high risk of serious complications of
-COVID-19 including severe COVID-19
+•                                                                                                 65 years of age and older
+•                                                                                                 18 through 64 years of age at high risk of severe COVID-19
+•                                                                                                 18 through 64 years of age with frequent institutional or occupational
+exposure to SARS-CoV-2
+1 The licensed vaccine has the same formulation as the EUA-authorized vaccine and the products
+can be used interchangeably to provide doses for primary vaccination or a booster dose without
+presenting any safety or effectiveness concerns. The products are legally distinct with certain
+differences that do not impact safety or effectiveness.
+Revised: 20 October 2021                                                                          2
+
+A single booster dose of the Pfizer-BioNTech COVID-19 Vaccine may be
+administered as a heterologous booster dose following completion of primary
+vaccination with another authorized COVID-19 vaccine. The eligible population(s)
+and dosing interval for the heterologous booster dose are the same as those
+authorized for a booster dose of the vaccine used for primary vaccination.
 See this Fact Sheet for instructions for preparation and administration. This Fact
 Sheet may have been updated. For the most recent Fact Sheet, please see
 www.cvdvaccine.com.
@@ -80,8 +98,6 @@ www.clinicaltrials.gov.
 DESCRIPTION OF COVID-19
 Coronavirus disease 2019 (COVID-19) is an infectious disease caused by the
 novel coronavirus, SARS-CoV-2, that appeared in late 2019. It is predominantly a
-Revised: 22 September 2021                                                           2
-
 respiratory illness that can affect other organs. People with COVID-19 have
 reported a wide range of symptoms, ranging from mild symptoms to severe illness.
 Symptoms may appear 2 to 14 days after exposure to the virus. Symptoms may
@@ -105,6 +121,8 @@ May 2021 through February 2022 printed on the label may remain in use for
 3 months beyond the printed date as long as approved storage conditions
 between -90ºC to -60ºC (-130ºF to -76ºF) have been maintained. Updated expiry
 dates are shown below.
+Revised: 20 October 2021                                                               3
+
 Printed Expiry Date                                                                      Updated Expiry Date
 May 2021                                                                                     August 2021
 June 2021                                                                                    September 2021
@@ -120,8 +138,6 @@ If not stored between -90ºC to -60ºC (-130ºF to -76ºF), vials may be stored 
 to -15°C (-13°F to 5°F) for up to 2 weeks. Vials must be kept frozen and protected
 from light until ready to use. Vials stored at -25°C to -15°C (-13°F to 5°F) for up to
 2 weeks may be returned one time to the recommended storage condition of -90ºC
-Revised: 22 September 2021                                                               3
-
 to -60ºC (-130ºF to -76ºF). Total cumulative time the vials are stored at -25°C
 to -15°C (-13°F to 5°F) should be tracked and should not exceed 2 weeks.
 If an ultra-low temperature freezer is not available, the thermal container in which
@@ -145,6 +161,8 @@ Thaw and then store undiluted vials in the refrigerator [2ºC to 8ºC (35ºF to 
 for up to 1 month. A carton of 25 vials or 195 vials may take up to 2 or 3 hours,
 respectively, to thaw in the refrigerator, whereas a fewer number of vials will thaw
 in less time.
+Revised: 20 October 2021                                                                 4
+
 Thawed at Room Temperature
 For immediate use, thaw undiluted vials at room temperature [up to 25ºC (77ºF)] for
 30 minutes. Thawed vials can be handled in room light conditions. Vials must reach
@@ -153,8 +171,6 @@ Undiluted vials may be stored at room temperature for no more than 2 hours.
 Transportation of Thawed Vials
 Available data support transportation of one or more thawed vials at 2°C to 8°C
 (35°F to 46°F) for up to 12 hours.
-Revised: 22 September 2021                                                             4
-
 Vials After Dilution
 •   After dilution, store vials between 2°C to 25°C (35°F to 77°F) and use within
 6 hours from the time of dilution.
@@ -167,34 +183,30 @@ Primary Series:
 The Pfizer-BioNTech COVID-19 Vaccine is administered intramuscularly as a
 primary series of two doses (0.3 mL each) 3 weeks apart to individuals 12 years of
 age and older.
-A third dose of the Pfizer-BioNTech COVID-19 vaccine (0.3 mL) at least 28 days
-following the second dose is authorized for administration to individuals at least
-12 years of age who have undergone solid organ transplantation, or who are
-diagnosed with conditions that are considered to have an equivalent level of
-immunocompromise.
+A third primary series dose of the Pfizer-BioNTech COVID-19 vaccine (0.3 mL) at
+least 28 days following the second dose is authorized for administration to
+individuals at least 12 years of age who have undergone solid organ
+transplantation, or who are diagnosed with conditions that are considered to have
+an equivalent level of immunocompromise.
 Booster Dose:
 A single Pfizer-BioNTech COVID-19 Vaccine booster dose (0.3 mL) may be
 administered intramuscularly at least 6 months after completing the primary series
 to individuals:
-•                                                                                                       65 years of age and older
-•                                                                                                       18 through 64 years of age at high risk of severe COVID-19
-•                                                                                                       18 through 64 years of age whose frequent institutional or occupational
-exposure to SARS-CoV-2 puts them at high risk of serious complications of
-COVID-19 including severe COVID-19
+•                                                                                     65 years of age and older
+•                                                                                     18 through 64 years of age at high risk of severe COVID-19
+•                                                                                     18 through 64 years of age with frequent institutional or occupational
+exposure to SARS-CoV-2
+A single booster dose of the Pfizer-BioNTech COVID-19 Vaccine may be
+administered as a heterologous booster dose following completion of primary
+vaccination with another authorized COVID-19 vaccine. The eligible population(s)
+Revised: 20 October 2021                                                              5
+
+and dosing interval for the heterologous booster dose are the same as those
+authorized for a booster dose of the vaccine used for primary vaccination.
 The FDA-approved COMIRNATY (COVID-19 Vaccine, mRNA) and the
 EUA-authorized Pfizer-BioNTech COVID-19 Vaccine have the same formulation
-and can be used interchangeably to provide the COVID-19 primary vaccination
-series or booster dose.2
-There are no data available on the interchangeability of the Pfizer-BioNTech
-COVID-19 Vaccine or COMIRNATY (COVID-19 Vaccine, mRNA) with other
-authorized COVID-19 vaccines to complete the primary vaccination series or
-booster dose.
-2 The licensed vaccine has the same formulation as the EUA-authorized vaccine and the products
-can be used interchangeably to provide the vaccination series without presenting any safety or
-effectiveness concerns. The products are legally distinct with certain differences that do not impact
-safety or effectiveness.
-Revised: 22 September 2021                                                                              5
-
+and can be used interchangeably to provide doses for COVID-19 primary
+vaccination or a booster dose.2
 Dose Preparation
 Prior to Dilution
 •   The Pfizer-BioNTech COVID-19 Vaccine Multiple Dose Vial contains a
@@ -225,14 +237,18 @@ to 3 hours to thaw, and thawed vials
 can be stored in the refrigerator for
 up to 1 month.
 o  Allowing vial(s) to sit at room
+2 The licensed vaccine has the same formulation as the EUA-authorized vaccine and the products
+can be used interchangeably to provide doses for primary vaccination or a booster dose without
+presenting any safety or effectiveness concerns. The products are legally distinct with certain
+differences that do not impact safety or effectiveness.
+Revised: 20 October 2021                                                                          6
+
 temperature [up to 25ºC (77ºF)] for
 30 minutes.
 •   Using either thawing method, vials
 must reach room temperature before
 dilution and must be diluted within
 2 hours.
-Revised: 22 September 2021                                                              6
-
 •   Before dilution invert vaccine vial
 gently 10 times.
 •   Do not shake.
@@ -258,7 +274,7 @@ Injection, USP into the vaccine vial.
 the needle from the vial by withdrawing
 1.8 mL air into the empty diluent
 syringe.
-Revised: 22 September 2021                     7
+Revised: 20 October 2021                       7
 
 •   Gently invert the vial containing the
 Pfizer-BioNTech COVID-19 Vaccine
@@ -291,7 +307,7 @@ the vial cannot provide a full dose of
 0.3 mL, discard the vial and any
 excess volume.
 •   Administer immediately.
-Revised: 22 September 2021                                  8
+Revised: 20 October 2021                                    8
 
 Administration
 Visually inspect each dose in the dosing syringe prior to administration. The
@@ -329,7 +345,7 @@ among males under 40 years of age than among females and older males. The
 observed risk is highest in males 12 through 17 years of age. Although some
 cases required intensive care support, available data from short-term follow-up
 suggest that most individuals have had resolution of symptoms with conservative
-Revised: 22 September 2021                                                          9
+Revised: 20 October 2021                                                            9
 
 management. Information is not yet available about potential long-term sequelae.
 The CDC has published considerations related to myocarditis and pericarditis
@@ -365,7 +381,7 @@ apparent with more widespread use of the Pfizer-BioNTech COVID-19 Vaccine.
 Use with Other Vaccines
 There is no information on the co-administration of the Pfizer-BioNTech COVID-19
 Vaccine with other vaccines.
-Revised: 22 September 2021                                                                  10
+Revised: 20 October 2021                                                                    10
 
 INFORMATION TO PROVIDE TO VACCINE RECIPIENTS/CAREGIVERS
 As the vaccination provider, you must communicate to the recipient or their
@@ -407,7 +423,7 @@ active immunization to prevent COVID-19 under this EUA is limited to the followi
 12 years of age and older.
 3 Vaccination providers administering COMIRNATY (COVID-19 Vaccine, mRNA) must adhere to the
 same reporting requirements.
-Revised: 22 September 2021                                                                    11
+Revised: 20 October 2021                                                                      11
 
 2.                                                                                       The vaccination provider must communicate to the individual receiving the
 Pfizer-BioNTech COVID-19 Vaccine or their caregiver, information
@@ -445,15 +461,15 @@ conduct normal life functions;
 •   An important medical event that based on appropriate medical judgement
 may jeopardize the individual and may require medical or surgical
 intervention to prevent one of the outcomes listed above.
-Revised: 22 September 2021                                                               12
+Revised: 20 October 2021                                                                 12
 
 OTHER ADVERSE EVENT REPORTING TO VAERS AND PFIZER INC.
 Vaccination providers may report to VAERS other adverse events that are not
 required to be reported using the contact information above.
 To the extent feasible, report adverse events to Pfizer Inc. using the contact
 information below or by providing a copy of the VAERS form to Pfizer Inc.
-Website                                                                             Fax number                                                      Telephone number
-www.pfizersafetyreporting.com                                                       1-866-635-8337                                                  1-800-438-1985
+Website                                                                             Fax number         Telephone number
+www.pfizersafetyreporting.com                                                       1-866-635-8337     1-800-438-1985
 ADDITIONAL INFORMATION
 For general questions, visit the website or call the telephone number provided
 below.
@@ -464,25 +480,9 @@ www.cvdvaccine.com
 1-877-829-2619
 (1-877-VAX-CO19)
 AVAILABLE ALTERNATIVES
-COMIRNATY (COVID-19 Vaccine, mRNA) is an FDA-approved COVID-19 vaccine
-made by Pfizer for BioNTech. It is approved as a 2-dose primary series for use in
-individuals 16 years of age and older. COMIRNATY (COVID-19 Vaccine, mRNA) is
-also authorized for emergency use to provide:
-•   a two-dose primary series in individuals 12 through 15 years;
-•   a third primary series dose in individuals 12 years of age and older who
-have been determined to have certain kinds of immunocompromise; and
-•   a single booster dose in individuals:
-o                                                                                   65 years of age and older
-o                                                                                   18 through 64 years of age at high risk of severe COVID-19
-o                                                                                   18 through 64 years of age whose frequent institutional or
-                                                                                    occupational exposure to SARS-CoV-2 puts them at high risk of
-                                                                                    serious complications of COVID-19 including severe COVID-19
-Revised: 22 September 2021                                                          13
-
-COMIRNATY (COVID-19 Vaccine, mRNA) has the same formulation as the
-Pfizer-BioNTech COVID-19 Vaccine. These vaccines can be used interchangeably
-to provide the COVID-19 vaccination series.4
-There may be clinical trials or availability under EUA of other COVID-19 vaccines.
+COMIRNATY (COVID-19 Vaccine, mRNA) is an FDA-approved vaccine to prevent
+COVID-19 caused by SARS-CoV-2. There may be clinical trials or availability under
+EUA of other COVID-19 vaccines.
 FEDERAL COVID-19 VACCINATION PROGRAM
 This vaccine is being made available for emergency use exclusively through the
 CDC COVID-19 Vaccination Program (the Vaccination Program). Healthcare
@@ -494,6 +494,8 @@ reimbursement from a program or plan that covers COVID-19 vaccine
 administration fees for the vaccine recipient (private insurance, Medicare,
 Medicaid, Health Resources & Services Administration [HRSA] COVID-19
 Uninsured Program for non-insured recipients). For information regarding provider
+Revised: 20 October 2021                                                            13
+
 requirements and enrollment in the CDC COVID-19 Vaccination Program, see
 https://www.cdc.gov/vaccines/covid-19/provider-enrollment.html.
 Individuals becoming aware of any potential violations of the CDC COVID-19
@@ -504,33 +506,8 @@ AUTHORITY FOR ISSUANCE OF THE EUA
 The Secretary of Health and Human Services (HHS) has declared a public health
 emergency that justifies the emergency use of drugs and biological products during
 the COVID-19 pandemic. In response, FDA has issued an EUA for the unapproved
-product, Pfizer-BioNTech COVID-19 Vaccine, for active immunization against
-COVID-19. Pfizer-BioNTech COVID-19 Vaccine is authorized for use to provide:
-•   a two-dose primary series in individuals 12 years of age and older;
-•   a third primary series dose in individuals 12 years of age and older who
-have been determined to have certain kinds of immunocompromise; and
-•   a single booster dose in individuals:
-o                                                                                                       65 years of age and older
-o                                                                                                       18 through 64 years of age at high risk of severe COVID-19
-o                                                                                                       18 through 64 years of age whose frequent institutional or
-occupational exposure to SARS-CoV-2 puts them at high risk of
-serious complications of COVID-19 including severe COVID-19
-4 The licensed vaccine has the same formulation as the EUA-authorized vaccine and the products
-can be used interchangeably to provide the vaccination series without presenting any safety or
-effectiveness concerns. The products are legally distinct with certain differences that do not impact
-safety or effectiveness.
-Revised: 22 September 2021                                                                              14
-
-FDA-approved COMIRNATY is also authorized for use to provide:
-•   a two-dose primary series in individuals 12 through 15 years;
-•   a third primary series dose in individuals 12 years of age and older who
-have been determined to have certain kinds of immunocompromise; and
-•   a single booster dose in individuals:
-o                                                                                           65 years of age and older
-o                                                                                           18 through 64 years of age at high risk of severe COVID-19
-o                                                                                           18 through 64 years of age whose frequent institutional or
-occupational exposure to SARS-CoV-2 puts them at high risk of
-serious complications of COVID-19 including severe COVID-19
+product, Pfizer-BioNTech COVID-19 Vaccine, and for certain uses of
+FDA-approved COMIRNATY for active immunization against COVID-19.
 FDA issued this EUA, based on Pfizer-BioNTech’s request and submitted data.
 For the authorized uses, although limited scientific information is available, based
 on the totality of the scientific evidence available to date, it is reasonable to believe
@@ -553,7 +530,7 @@ devices, or other items used to prevent, diagnose, or treat the public during a 
 health emergency or a security threat. For more information about CICP regarding
 the Pfizer-BioNTech COVID-19 Vaccine used to prevent COVID-19, visit
 www.hrsa.gov/cicp, email cicp@hrsa.gov, or call: 1-855-266-2427.
-Revised: 22 September 2021                                                                  15
+Revised: 20 October 2021                                                                    14
 
 Manufactured by
 Pfizer Inc., New York, NY 10017
@@ -561,45 +538,46 @@ Manufactured for
 BioNTech Manufacturing GmbH
 An der Goldgrube 12
 55131 Mainz, Germany
-LAB-1450-13.4
-Revised: 22 September 2021
+LAB-1450-14.2a
+Revised: 20 October 2021
 END SHORT VERSION FACT SHEET
 Long Version (Full EUA Prescribing Information) Begins On Next Page
-Revised: 22 September 2021                                            16
+Revised: 20 October 2021                                              15
 
 FULL EMERGENCY USE
 AUTHORIZATION (EUA) PRESCRIBING
 INFORMATION
 PFIZER-BIONTECH COVID-19 VACCINE
-11  USE IN SPECIFIC POPULATIONS
-11.1   Pregnancy
-FULL EMERGENCY USE AUTHORIZATION
 11.2   Lactation
-PRESCRIBING INFORMATION: CONTENTS*
 11.3   Pediatric Use
+FULL EMERGENCY USE AUTHORIZATION
 11.4   Geriatric Use
-1   AUTHORIZED USE                                                                     11.5   Use in Immunocompromised
-                                     2   DOSAGE AND ADMINISTRATION                     13  DESCRIPTION
-2.1                                  Preparation for Administration                    14  CLINICAL PHARMACOLOGY
-2.2                                  Administration Information                        14.1   Mechanism of Action
-2.3                                  Vaccination Schedule                              18  CLINICAL TRIAL RESULTS AND SUPPORTING DATA FOR
-                                     3   DOSAGE FORMS AND STRENGTHS                    EUA
-                                     4   CONTRAINDICATIONS                             18.1   Efficacy of Primary Series in Participants 16 Years of Age and
-                                     5   WARNINGS AND PRECAUTIONS                      Older
-5.1                                  Management of Acute Allergic Reactions            18.2   Efficacy of Primary Series in Adolescents 12 Through 15 Years of
-5.2                                  Myocarditis and Pericarditis                      Age
-5.3                                  Syncope                                           18.3   Immunogenicity of Primary Series in Adolescents 12 Through
-5.4                                  Altered Immunocompetence                          15 Years of Age
-5.5                                  Limitation of Effectiveness                       18.4   Immunogenicity of Booster Dose in Participants 18 Through
-                                     6   OVERALL SAFETY SUMMARY                        55 Years of Age
-6.1                                  Clinical Trials Experience                        18.5   Immunogenicity in Solid Organ Transplant Recipients
-6.2                                  Post Authorization Experience                     19  HOW SUPPLIED/STORAGE AND HANDLING
-                                     8   REQUIREMENTS AND INSTRUCTIONS FOR REPORTING   20  PATIENT COUNSELING INFORMATION
-                                     ADVERSE EVENTS AND VACCINE ADMINISTRATION         21  CONTACT INFORMATION
-ERRORS
-                                     10  DRUG INTERACTIONS                             * Sections or subsections omitted from the full emergency use authorization
-                                                                                       prescribing information are not listed.
-                                     Revised: 22 September 2021                        17
+PRESCRIBING INFORMATION: CONTENTS*
+11.5   Use in Immunocompromised
+13  DESCRIPTION
+1   AUTHORIZED USE                                                                     14  CLINICAL PHARMACOLOGY
+                                     2   DOSAGE AND ADMINISTRATION                     14.1   Mechanism of Action
+2.1                                  Preparation for Administration                    18  CLINICAL TRIAL RESULTS AND SUPPORTING DATA FOR
+2.2                                  Administration Information                        EUA
+2.3                                  Vaccination Schedule                              18.1   Efficacy of Primary Series in Participants 16 Years of Age and
+                                     3   DOSAGE FORMS AND STRENGTHS                    Older
+                                     4   CONTRAINDICATIONS                             18.2   Efficacy of Primary Series in Adolescents 12 Through 15 Years of
+                                     5   WARNINGS AND PRECAUTIONS                      Age
+5.1                                  Management of Acute Allergic Reactions            18.3   Immunogenicity of Primary Series in Adolescents 12 Through
+5.2                                  Myocarditis and Pericarditis                      15 Years of Age
+5.3                                  Syncope                                           18.4   Immunogenicity of a Booster Dose Following a Pfizer-BioNTech
+5.4                                  Altered Immunocompetence                          COVID-19 Vaccine Primary Series in Participants 18 Through
+5.5                                  Limitation of Effectiveness                       55 Years of Age
+                                     6   OVERALL SAFETY SUMMARY                        18.5   Immunogenicity in Solid Organ Transplant Recipients
+6.1                                  Clinical Trials Experience                        18.6   Immunogenicity of a Booster Dose Following Primary Vaccination
+6.2                                  Post Authorization Experience                     with Another Authorized COVID-19 Vaccine
+                                     8   REQUIREMENTS AND INSTRUCTIONS FOR REPORTING   19  HOW SUPPLIED/STORAGE AND HANDLING
+                                     ADVERSE EVENTS AND VACCINE ADMINISTRATION         20  PATIENT COUNSELING INFORMATION
+ERRORS                                                                                 21  CONTACT INFORMATION
+                                     10  DRUG INTERACTIONS
+                                     11  USE IN SPECIFIC POPULATIONS                   * Sections or subsections omitted from the full emergency use authorization
+11.1   Pregnancy                                                                       prescribing information are not listed.
+Revised: 20 October 2021             16
 
 FULL EMERGENCY USE AUTHORIZATION (EUA) PRESCRIBING INFORMATION
 1                                                                                                                 AUTHORIZED USE
@@ -627,7 +605,7 @@ a vial contains 5 doses of 0.3 mL. The information in this Full EUA Prescribing 
 the number of doses per vial after dilution supersedes the number of doses stated on vial labels and
 cartons.
 •   Refer to dilution and dose preparation instructions in the panels below.
-Revised: 22 September 2021                                                                                        18
+Revised: 20 October 2021                                                                                          17
 
 THAWING PRIOR TO DILUTION
 •   Thaw vial(s) of Pfizer-BioNTech COVID-19
@@ -659,7 +637,7 @@ needle).
 antiseptic swab.
 •   Add 1.8 mL of 0.9% Sodium Chloride Injection,
 USP into the vaccine vial.
-Revised: 22 September 2021                                     19
+Revised: 20 October 2021                                       18
 
 •   Equalize vial pressure before removing the needle
 from the vial by withdrawing 1.8 mL air into the
@@ -676,7 +654,7 @@ matter.
 Pfizer-BioNTech COVID-19 Vaccine vial label.
 •   Store between 2°C to 25°C (35°F to 77°F).
 •   Discard any unused vaccine 6 hours after dilution.
-Revised: 22 September 2021                                20
+Revised: 20 October 2021                                  19
 
 PREPARATION OF INDIVIDUAL 0.3 mL DOSES OF PFIZER-BIONTECH COVID-19
 VACCINE
@@ -709,52 +687,54 @@ any excess volume.
 Primary Series:
 The Pfizer-BioNTech COVID-19 Vaccine is administered intramuscularly as a primary series of two doses
 (0.3 mL each) three weeks apart in individuals 12 years of age and older.
-A third dose of the Pfizer-BioNTech COVID-19 vaccine (0.3 mL) at least 28 days following the second dose is
-authorized for administration to individuals at least 12 years of age who have undergone solid organ
-transplantation, or who are diagnosed with conditions that are considered to have an equivalent level of
+A third primary series dose of the Pfizer-BioNTech COVID-19 vaccine (0.3 mL) at least 28 days following the
+second dose is authorized for administration to individuals at least 12 years of age who have undergone solid
+organ transplantation, or who are diagnosed with conditions that are considered to have an equivalent level of
 immunocompromise.
-Revised: 22 September 2021                                                                                          21
+Revised: 20 October 2021                                                                                            20
 
 Booster Dose:
 A single Pfizer-BioNTech COVID-19 Vaccine booster dose (0.3 mL) may be administered intramuscularly at
 least 6 months after completing the primary series to individuals:
-•                                                                                                                                        65 years of age and older
-•                                                                                                                                        18 through 64 years of age at high risk of severe COVID-19
-•                                                                                                                                        18 through 64 years of age whose frequent institutional or occupational exposure to SARS-CoV-2 puts
-them at high risk of serious complications of COVID-19 including severe COVID-19
+•                                                                                                                                   65 years of age and older
+•                                                                                                                                   18 through 64 years of age at high risk of severe COVID-19
+•                                                                                                                                   18 through 64 years of age with frequent institutional or occupational exposure to SARS-CoV-2
+A single booster dose of the Pfizer-BioNTech COVID-19 Vaccine may be administered as a heterologous
+booster dose following completion of primary vaccination with another authorized COVID-19 vaccine. The
+eligible population(s) and dosing interval for the heterologous booster dose are the same as those authorized for
+a booster dose of the vaccine used for primary vaccination.
 The FDA-approved COMIRNATY (COVID-19 Vaccine, mRNA) and the EUA-authorized Pfizer-BioNTech
-COVID-19 Vaccine have the same formulation and can be used interchangeably to provide the COVID-19
-vaccination series.5 There are no data available on the interchangeability of the Pfizer-BioNTech COVID-19
-Vaccine or COMIRNATY (COVID-19 Vaccine, mRNA) with other authorized COVID-19 vaccines.
-3                                                                                                                                        DOSAGE FORMS AND STRENGTHS
-                                                                                                                                         Pfizer-BioNTech COVID-19 Vaccine is a suspension for injection. After preparation, a single dose is 0.3 mL
+COVID-19 Vaccine have the same formulation and can be used interchangeably to provide doses for COVID-
+19 primary vaccination or a booster dose.4
+3                                                                                                                                   DOSAGE FORMS AND STRENGTHS
+                                                                                                                                    Pfizer-BioNTech COVID-19 Vaccine is a suspension for injection. After preparation, a single dose is 0.3 mL
 [see Dosage and Administration (2.1)].
-4                                                                                                                                        CONTRAINDICATIONS
-                                                                                                                                         Do not administer Pfizer-BioNTech COVID-19 Vaccine to individuals with known history of a severe allergic
-                                                                                                                                         reaction (e.g., anaphylaxis) to any component of the Pfizer-BioNTech COVID-19 Vaccine [see Description
+4                                                                                                                                   CONTRAINDICATIONS
+                                                                                                                                    Do not administer Pfizer-BioNTech COVID-19 Vaccine to individuals with known history of a severe allergic
+                                                                                                                                    reaction (e.g., anaphylaxis) to any component of the Pfizer-BioNTech COVID-19 Vaccine [see Description
 (13)].
-5                                                                                                                                        WARNINGS AND PRECAUTIONS
-5.1                                                                                                                                      Management of Acute Allergic Reactions
+5                                                                                                                                   WARNINGS AND PRECAUTIONS
+5.1                                                                                                                                 Management of Acute Allergic Reactions
 Appropriate medical treatment used to manage immediate allergic reactions must be immediately available in
 the event an acute anaphylactic reaction occurs following administration of Pfizer-BioNTech COVID-19
 Vaccine.
 Monitor Pfizer-BioNTech COVID-19 Vaccine recipients for the occurrence of immediate adverse reactions
 according to the Centers for Disease Control and Prevention (CDC) guidelines
 (https://www.cdc.gov/vaccines/covid-19/clinical-considerations/managing-anaphylaxis.html).
-5.2                                                                                                                                      Myocarditis and Pericarditis
+5.2                                                                                                                                 Myocarditis and Pericarditis
 Postmarketing data demonstrate increased risks of myocarditis and pericarditis, particularly within 7 days
 following the second dose. The observed risk is higher among males under 40 years of age than among
 females and older males. The observed risk is highest in males 12 through 17 years of age. Although some
 cases required intensive care support, available data from short-term follow-up suggest that most individuals
 have had resolution of symptoms with conservative management. Information is not yet available about
+4 The licensed vaccine has the same formulation as the EUA-authorized vaccine and the products can be used interchangeably to
+provide doses for primary vaccination or a booster dose without presenting any safety or effectiveness concerns. The products are
+legally distinct with certain differences that do not impact safety or effectiveness.
+Revised: 20 October 2021                                                                                                            21
+
 potential long-term sequelae. The CDC has published considerations related to myocarditis and pericarditis
 after vaccination, including for vaccination of individuals with a history of myocarditis or pericarditis
 (https://www.cdc.gov/vaccines/covid-19/clinical-considerations/myocarditis.html).
-5 The licensed vaccine has the same formulation as the EUA-authorized vaccine and the products can be used interchangeably to
-provide the vaccination series without presenting any safety or effectiveness concerns. The products are legally distinct with certain
-differences that do not impact safety or effectiveness.
-Revised: 22 September 2021                                                                                                               22
-
 5.3                                                                                                                        Syncope
 Syncope (fainting) may occur in association with administration of injectable vaccines, in particular in
 adolescents. Procedures should be in place to avoid injury from fainting.
@@ -767,7 +747,7 @@ The Pfizer-BioNTech COVID-19 Vaccine may not protect all vaccine recipients.
 It is MANDATORY for vaccination providers to report to the Vaccine Adverse Event Reporting System
 (VAERS) all vaccine administration errors, all serious adverse events, cases of Multisystem
 Inflammatory Syndrome (MIS) in adults and children, and hospitalized or fatal cases of COVID-19
-following vaccination with the Pfizer-BioNTech COVID-19 Vaccine. 6 To the extent feasible, provide a
+following vaccination with the Pfizer-BioNTech COVID-19 Vaccine. 5 To the extent feasible, provide a
 copy of the VAERS form to Pfizer Inc. Please see the REQUIREMENTS AND INSTRUCTIONS FOR
 REPORTING ADVERSE EVENTS AND VACCINE ADMINISTRATION ERRORS section for details
 on reporting to VAERS and Pfizer Inc.
@@ -786,8 +766,8 @@ Severe allergic reactions, including anaphylaxis, have been reported following a
 Pfizer-BioNTech COVID-19 Vaccine outside of clinical trials.
 Myocarditis and pericarditis have been reported following administration of the Pfizer-BioNTech COVID-19
 Vaccine outside of clinical trials.
-6 Vaccination providers administering COMIRNATY (COVID-19 Vaccine, mRNA) must adhere to the same reporting requirements.
-Revised: 22 September 2021                                                                                                 23
+5 Vaccination providers administering COMIRNATY (COVID-19 Vaccine, mRNA) must adhere to the same reporting requirements.
+Revised: 20 October 2021                                                                                                   22
 
 6.1                                                                                                                 Clinical Trials Experience
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the
@@ -827,7 +807,7 @@ Across both age groups, 18 through 55 years of age and 56 years and older, the m
 injection site after Dose 2 was 2.5 days (range 1 to 36 days), for redness 2.6 days (range 1 to 34 days), and for
 swelling 2.3 days (range 1 to 34 days) for participants in the Pfizer-BioNTech COVID-19 Vaccine group.
 Solicited reactogenicity data in 16 and 17 year-old participants are limited.
-Revised: 22 September 2021                                                                                          24
+Revised: 20 October 2021                                                                                            23
 
 Table 1:   Study 2 - Frequency and Percentages of Participants with Solicited Local Reactions, by
 Maximum Severity, Within 7 Days After Each Dose - Participants 18 Through 55 Years of
@@ -878,7 +858,7 @@ Any                                                                             
 Mild                                                                                                                          597 (26.1)         467 (20.3)   442 (21.1)         248 (11.8)
 Moderate                                                                                                                      455 (19.9)         289 (12.6)   708 (33.7)         217 (10.3)
 Severe                                                                                                                        33 (1.4)           11 (0.5)     97 (4.6)           14 (0.7)
-Revised: 22 September 2021                                                                                                    25
+Revised: 20 October 2021                                                                                                      24
 
                                                                                                                                     Pfizer-BioNTech                 Pfizer-BioNTech
                                                                                                                                     COVID-19 Vaccine   Placebo      COVID-19 Vaccine   Placebo
@@ -929,7 +909,7 @@ e. Mild: 2 to 3 loose stools in 24 hours; Moderate: 4 to 5 loose stools in 24 ho
 f.  Severity was not collected for use of antipyretic or pain medication.
 ‡  Eight participants were between 16 and 17 years of age.
 *  Randomized participants in the safety analysis population who received at least 1 dose of the study intervention.
-Revised: 22 September 2021                                                                                                          26
+Revised: 20 October 2021                                                                                                            25
 
 Table 3:   Study 2 - Frequency and Percentages of Participants with Solicited Local Reactions, by
 Maximum Severity, Within 7 Days After Each Dose - Participants 56 Years of Age and
@@ -980,7 +960,7 @@ Any                                                                             
 Mild                                                                                                                         373 (20.7)         252 (14.1)   351 (21.1)         161 (9.8)
 Moderate                                                                                                                     240 (13.3)         150 (8.4)    442 (26.6)         114 (6.9)
 Severe                                                                                                                       2 (0.1)            3 (0.2)      46 (2.8)           2 (0.1)
-Revised: 22 September 2021                                                                                                                                                      27
+Revised: 20 October 2021                                                                                                                                                        26
 
                                                                                                                                     Pfizer-BioNTech                 Pfizer-BioNTech
                                                                                                                                     COVID-19 Vaccine   Placebo      COVID-19 Vaccine   Placebo
@@ -1032,7 +1012,7 @@ e. Mild: 2 to 3 loose stools in 24 hours; Moderate: 4 to 5 loose stools in 24 ho
 From an independent report (Kamar N, Abravanel F, Marion O, et al. Three doses of an mRNA Covid-19
 vaccine in solid-organ transplant recipients. N Engl J Med), in 99 individuals who had undergone various solid
 organ transplant procedures (heart, kidney, liver, lung, pancreas) 97±8 months previously who received a third
-Revised: 22 September 2021                                                                                                          28
+Revised: 20 October 2021                                                                                                            27
 
 vaccine dose, the adverse event profile was similar to that after the second dose and no grade 3 or grade 4
 events were reported in recipients who were followed for one month following post Dose 3.
@@ -1075,7 +1055,7 @@ group. Currently available information is insufficient to determine a causal rel
 were no other notable patterns or numerical imbalances between treatment groups for specific categories of
 non-serious adverse events (including other neurologic or neuro-inflammatory, and thrombotic events) that
 would suggest a causal relationship to Pfizer-BioNTech COVID-19 Vaccine.
-Revised: 22 September 2021                                                                                          29
+Revised: 20 October 2021                                                                                            28
 
 Adolescents 12 Through 15 Years of Age
 In an analysis of Study 2, based on data up to the cutoff date of March 13, 2021, 2,260 adolescents
@@ -1122,7 +1102,7 @@ b. n = Number of participants with the specified reaction.
 c. Mild: >2.0 to ≤5.0 cm; Moderate: >5.0 to ≤10.0 cm; Severe: >10.0 cm.
 d. Mild: does not interfere with activity; Moderate: interferes with activity; Severe: prevents daily activity.
 *  Randomized participants in the safety analysis population who received at least 1 dose of the study intervention.
-Revised: 22 September 2021                                                                                                    30
+Revised: 20 October 2021                                                                                                      29
 
 Table 6:   Study 2 - Frequency and Percentages of Adolescents with Solicited Systemic Reactions, by
 Maximum Severity, Within 7 Days After Each Dose - Adolescents 12 Through 15 Years of
@@ -1169,7 +1149,7 @@ Any                                                                             
 Mild                                                                                                  125 (11.1)         88 (7.8)     152 (13.9)         51 (4.7)
 Moderate                                                                                              145 (12.9)         60 (5.3)     197 (18.0)         37 (3.4)
 Severe                                                                                                2 (0.2)            0 (0.0)      6 (0.5)            2 (0.2)
-Revised: 22 September 2021                                                                            31
+Revised: 20 October 2021                                                                              30
 
                                                                                                                                     Pfizer-BioNTech                Pfizer-BioNTech
                                                                                                                                     COVID-19 Vaccine   Placebo     COVID-19 Vaccine   Placebo
@@ -1210,12 +1190,12 @@ imbalanced, with notably more cases in the Pfizer-BioNTech COVID-19 Vaccine grou
 group (1). There were no other notable patterns or numerical imbalances between treatment groups for specific
 categories of non-serious adverse events that would suggest a causal relationship to Pfizer-BioNTech
 COVID-19 Vaccine.
-Booster Dose
+Booster Dose Following a Primary Series of Pfizer-BioNTech COVID-19 Vaccine or COMIRNATY
 A subset of Study 2 Phase 2/3 participants of 306 adults 18 through 55 years of age received a booster dose of
 Pfizer-BioNTech COVID-19 Vaccine approximately 6 months (range of 4.8 to 8.0 months) after completing the
 primary series. Additionally, a total of 23 Study 2 Phase 1 participants (11 participants 18 through 55 years of
 age and 12 participants 65 through 85 years of age) received a booster dose of Pfizer-BioNTech COVID-19
-Revised: 22 September 2021                                                                                                          32
+Revised: 20 October 2021                                                                                                            31
 
 Vaccine approximately 8 months (range 7.9 to 8.8 months) after completing the primary series. Safety
 monitoring after the booster dose was the same as that in the reactogenicity subset who received the primary
@@ -1251,7 +1231,7 @@ Any (>2 cm)                                                                     
 Mild                                                                                                                  13 (4.5)
 Moderate                                                                                                              9 (3.1)
 Severe                                                                                                                1 (0.3)
-Revised: 22 September 2021                                                                                            33
+Revised: 20 October 2021                                                                                              32
 
 Pfizer-BioNTech COVID-19 Vaccine
 Booster Dose
@@ -1303,7 +1283,7 @@ Any                                                                             
 Mild                                                                                                                         5 (1.7)
 Moderate                                                                                                                     0
 Severe                                                                                                                       0
-Revised: 22 September 2021                                                                                                   34
+Revised: 20 October 2021                                                                                                     33
 
 Pfizer-BioNTech COVID-19 Vaccine
 Booster Dose
@@ -1351,8 +1331,24 @@ Serious Adverse Events
 Of the 306 participants who received a booster dose of Pfizer-BioNTech COVID-19 Vaccine, there were no
 serious adverse events reported from the booster dose through 30 days after the booster dose. One participant
 reported a serious adverse event 61 days after the booster dose that was assessed as unrelated to vaccination.
-Revised: 22 September 2021                                                                                                          35
+Revised: 20 October 2021                                                                                                            34
 
+Booster Dose Following Primary Vaccination with Another Authorized COVID-19 Vaccine
+The safety of a Pfizer-BioNTech COVID-19 Vaccine booster dose in individuals who completed primary
+vaccination with another authorized COVID-19 Vaccine (heterologous booster dose) is inferred from the safety
+of a Pfizer-BioNTech COVID-19 Vaccine booster dose administered following completion of Pfizer-BioNTech
+COVID-19 Vaccine primary series (homologous booster dose) and from data from an independent National
+Institutes of Health (NIH) study Phase 1/2 open-label clinical trial (NCT04889209) conducted in the United
+States that evaluated a heterologous booster dose of the Pfizer-BioNTech COVID-19 Vaccine. In this study,
+adults who had completed primary vaccination with a Moderna COVID-19 Vaccine 2-dose series (N=151), a
+Janssen COVID-19 Vaccine single dose (N=156), or a Pfizer-BioNTech COVID-19 Vaccine 2-dose series
+(N=151) at least 12 weeks prior to enrollment and who reported no history of SARS-CoV-2 infection were
+randomized 1:1:1 to receive a booster dose of one of three vaccines: Moderna COVID-19 Vaccine, Janssen
+COVID-19 Vaccine, or Pfizer-BioNTech COVID-19 Vaccine. Adverse events were assessed through 28 days
+after the booster dose. An overall review of adverse reactions reported in the study following the Pfizer-
+BioNTech COVID-19 Vaccine heterologous booster dose did not identify any new safety concerns, as
+compared with adverse reactions reported following a Pfizer-BioNTech COVID-19 Vaccine primary series
+doses or homologous booster dose.
 6.2                                                                                                                        Post Authorization Experience
 The following adverse reactions have been identified during post authorization use of Pfizer-BioNTech
 COVID-19 Vaccine. Because these reactions are reported voluntarily, it is not always possible to reliably
@@ -1364,7 +1360,7 @@ Immune System Disorders: severe allergic reactions, including anaphylaxis, and o
 Musculoskeletal and Connective Tissue Disorders: pain in extremity (arm)
 Nervous System Disorders: syncope
 8                                                                                                                          REQUIREMENTS AND INSTRUCTIONS FOR REPORTING ADVERSE EVENTS AND
-VACCINE ADMINISTRATION ERRORS7
+VACCINE ADMINISTRATION ERRORS6
 See Overall Safety Summary (Section 6) for additional information.
 The vaccination provider enrolled in the federal COVID-19 Vaccination Program is responsible for
 MANDATORY reporting of the listed events following Pfizer-BioNTech COVID-19 Vaccine to the Vaccine
@@ -1373,6 +1369,9 @@ Adverse Event Reporting System (VAERS):
 •   Serious adverse events* (irrespective of attribution to vaccination)
 •   Cases of Multisystem Inflammatory Syndrome (MIS) in children and adults
 •   Cases of COVID-19 that result in hospitalization or death
+6 Vaccination providers administering COMIRNATY (COVID-19 Vaccine, mRNA) must adhere to the same reporting requirements.
+Revised: 20 October 2021                                                                                                   35
+
 *Serious adverse events are defined as:
 •   Death
 •   A life-threatening adverse event
@@ -1389,9 +1388,6 @@ VAERS form to FDA using one of the following methods:
 •   If you are unable to submit this form electronically, you may fax it to VAERS at 1-877-721-0366. If
 you need additional help submitting a report you may call the VAERS toll-free information line at
 1-800-822-7967 or send an email to info@vaers.org.
-7 Vaccination providers administering COMIRNATY (COVID-19 Vaccine, mRNA) must adhere to the same reporting requirements.
-Revised: 22 September 2021                                                                                                 36
-
 IMPORTANT: When reporting adverse events or vaccine administration errors to VAERS, please
 complete the entire form with detailed information. It is important that the information reported to FDA
 be as detailed and complete as possible. Information to include:
@@ -1422,6 +1418,8 @@ b.  In Box 14, provide the name and contact information of the best doctor/healt
 to contact about the adverse event.
 c.  In Box 15, provide the address of the facility where vaccine was given (NOT the healthcare
 provider’s office address).
+Revised: 20 October 2021                                                                                     36
+
 Other Reporting Instructions
 Vaccination providers may report to VAERS other adverse events that are not required to be reported using the
 contact information above.
@@ -1432,10 +1430,8 @@ copy of the VAERS form to Pfizer Inc.
 10                                                                                                                   DRUG INTERACTIONS
                                                                                                                                                      There are no data to assess the concomitant administration of the Pfizer-BioNTech COVID-19 Vaccine with
 other vaccines.
-Revised: 22 September 2021                                                                                           37
-
-11                                                                                                                  USE IN SPECIFIC POPULATIONS
-11.1                                                                                                                Pregnancy
+11                                                                                                                   USE IN SPECIFIC POPULATIONS
+11.1                                                                                                                 Pregnancy
 Risk Summary
 All pregnancies have a risk of birth defect, loss, or other adverse outcomes. In the US general population, the
 estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to
@@ -1447,15 +1443,17 @@ in a single human dose of Pfizer-BioNTech COVID-19 Vaccine was administered to f
 intramuscular route on four occasions: 21 and 14 days prior to mating, and on gestation days 9 and 20. No
 vaccine-related adverse effects on female fertility, fetal development, or postnatal development were reported in
 the study.
-11.2                                                                                                                Lactation
+11.2                                                                                                                 Lactation
 Risk Summary
 Data are not available to assess the effects of Pfizer-BioNTech COVID-19 Vaccine on the breastfed infant or on
 milk production/excretion.
-11.3                                                                                                                Pediatric Use
+11.3                                                                                                                 Pediatric Use
 Emergency Use Authorization of Pfizer-BioNTech COVID-19 Vaccine in adolescents 12 through 17 years of
 age is based on safety and effectiveness data in this age group and in adults.
 Emergency Use Authorization of Pfizer-BioNTech COVID-19 Vaccine does not include use in individuals
 younger than 12 years of age.
+Revised: 20 October 2021                                                                                             37
+
 11.4                                                                                                                Geriatric Use
 Clinical studies of Pfizer-BioNTech COVID-19 Vaccine include participants 65 years of age and older who
 received the primary series and their data contributes to the overall assessment of safety and efficacy [see
@@ -1468,16 +1466,14 @@ through 55 years of age in Study 2. The effectiveness of a booster dose of Pfize
 in individuals 65 years of age and older is based on effectiveness data in 306 booster dose recipients 18 through
 55 years of age in Study 2.
 11.5                                                                                                                Use in Immunocompromised
-                                                                                                                    From an independent report (Kamar N, Abravanel F, Marion O, et al. Three doses of an mRNA Covid-19
-                                                                                                                    vaccine in solid-organ transplant recipients. N Engl J Med), safety and effectiveness of a third dose of the
-Revised: 22 September 2021                                                                                                                                                                                                         38
-
+From an independent report (Kamar N, Abravanel F, Marion O, et al. Three doses of an mRNA Covid-19
+vaccine in solid-organ transplant recipients. N Engl J Med), safety and effectiveness of a third dose of the
 Pfizer-BioNTech COVID-19 vaccine have been evaluated in persons that received solid organ transplants. The
 administration of a third dose of vaccine appears to be only moderately effective in increasing potentially
 protective antibody titers. Patients should still be counselled to maintain physical precautions to help prevent
 COVID-19. In addition, close contacts of immunocompromised persons should be vaccinated as appropriate for
 their health status.
-13                                                                                                                 DESCRIPTION
+13                                                                                                                  DESCRIPTION
 The Pfizer-BioNTech COVID-19 Vaccine is supplied as a frozen suspension in multiple dose vials; each vial
 must be diluted with 1.8 mL of sterile 0.9% Sodium Chloride Injection, USP prior to use to form the vaccine.
 Each dose of the Pfizer-BioNTech COVID-19 Vaccine contains 30 mcg of a nucleoside-modified messenger
@@ -1490,13 +1486,15 @@ dibasic sodium phosphate dihydrate, and 6 mg sucrose. The diluent (0.9% Sodium C
 contributes an additional 2.16 mg sodium chloride per dose.
 The Pfizer-BioNTech COVID-19 Vaccine does not contain preservative. The vial stoppers are not made with
 natural rubber latex.
-14                                                                                                                 CLINICAL PHARMACOLOGY
-14.1                                                                                                               Mechanism of Action
-                                                                                                                   The modRNA in the Pfizer-BioNTech COVID-19 Vaccine is formulated in lipid particles, which enable
-                                                                                                                   delivery of the RNA into host cells to allow expression of the SARS-CoV-2 S antigen. The vaccine elicits an
-                                                                                                                   immune response to the S antigen, which protects against COVID-19.
-18                                                                                                                 CLINICAL TRIAL RESULTS AND SUPPORTING DATA FOR EUA
-18.1                                                                                                               Efficacy of Primary Series in Participants 16 Years of Age and Older
+14                                                                                                                  CLINICAL PHARMACOLOGY
+14.1                                                                                                                Mechanism of Action
+                                                                                                                    The modRNA in the Pfizer-BioNTech COVID-19 Vaccine is formulated in lipid particles, which enable
+                                                                                                                    delivery of the RNA into host cells to allow expression of the SARS-CoV-2 S antigen. The vaccine elicits an
+                                                                                                                    immune response to the S antigen, which protects against COVID-19.
+Revised: 20 October 2021                                                                                            38
+
+18                                                                                                                CLINICAL TRIAL RESULTS AND SUPPORTING DATA FOR EUA
+18.1                                                                                                              Efficacy of Primary Series in Participants 16 Years of Age and Older
 Study 2 is a multicenter, multinational, Phase 1/2/3, randomized, placebo-controlled, observer-blind,
 dose-finding, vaccine candidate-selection, and efficacy study in participants 12 years of age and older.
 Randomization was stratified by age: 12 through 15 years of age, 16 through 55 years of age, or 56 years of age
@@ -1510,44 +1508,48 @@ In the Phase 2/3 portion of Study 2, based on data accrued through November 14, 
 44,000 participants 12 years of age and older were randomized equally and received 2 doses of
 Pfizer-BioNTech COVID-19 Vaccine or placebo separated by 21 days. Participants are planned to be followed
 for up to 24 months, for assessments of safety and efficacy against COVID-19.
-Revised: 22 September 2021                                                                                         39
-
 The population for the analysis of the primary efficacy endpoint included, 36,621 participants 12 years of age
 and older (18,242 in the Pfizer-BioNTech COVID-19 Vaccine group and 18,379 in the placebo group) who did
 not have evidence of prior infection with SARS-CoV-2 through 7 days after the second dose. Table 9 presents
 the specific demographic characteristics in the studied population.
 Table 9:   Demographics (population for the primary efficacy endpoint)a
 Pfizer-BioNTech
-                                                                                                                                     COVID-19 Vaccine                                                                                                                       Placebo
-                                                                                                                                     (N=18,242)                                                                                                                             (N=18,379)
-                                                                                                                                     n (%)                                                                                                                                  n (%)
+                                                                                                                  COVID-19 Vaccine                                                                 Placebo
+                                                                                                                  (N=18,242)                                                                       (N=18,379)
+                                                                                                                  n (%)                                                                            n (%)
 Sex
-Male                                                                                                                                 9318 (51.1)                                                                                                                            9225 (50.2)
-Female                                                                                                                               8924 (48.9)                                                                                                                            9154 (49.8)
+Male                                                                                                              9318 (51.1)                                                                      9225 (50.2)
+Female                                                                                                            8924 (48.9)                                                                      9154 (49.8)
 Age (years)
-Mean (SD)                                                                                                                            50.6                                                                                                                         (15.70)   50.4            (15.81)
-Median                                                                                                                               52.0                                                                                                                                   52.0
-Min, max                                                                                                                             (12, 89)                                                                                                                               (12, 91)
+Mean (SD)                                                                                                         50.6                                                                   (15.70)   50.4            (15.81)
+Median                                                                                                            52.0                                                                             52.0
+Min, max                                                                                                          (12, 89)                                                                         (12, 91)
 Age group
-≥12 through 15 yearsb                                                                                                                46 (0.3)                                                                                                                               42 (0.2)
-≥16 through 17 years                                                                                                                 66 (0.4)                                                                                                                               68 (0.4)
-≥16 through 64 years                                                                                                                 14,216 (77.9)                                                                                                                          14,299 (77.8)
-≥65 through 74 years                                                                                                                 3176 (17.4)                                                                                                                            3226 (17.6)
-≥75 years                                                                                                                            804 (4.4)                                                                                                                              812 (4.4)
+≥12 through 15 yearsb                                                                                             46 (0.3)                                                                         42 (0.2)
+≥16 through 17 years                                                                                              66 (0.4)                                                                         68 (0.4)
+≥16 through 64 years                                                                                              14,216 (77.9)                                                                    14,299 (77.8)
+≥65 through 74 years                                                                                              3176 (17.4)                                                                      3226 (17.6)
+≥75 years                                                                                                         804 (4.4)                                                                        812 (4.4)
 Race
-White                                                                                                                                15,110 (82.8)                                                                                                                          15,301 (83.3)
-Black or African American                                                                                                            1617 (8.9)                                                                                                                             1617 (8.8)
-American Indian or Alaska Native                                                                                                     118 (0.6)                                                                                                                              106 (0.6)
-Asian                                                                                                                                815 (4.5)                                                                                                                              810 (4.4)
-Native Hawaiian or other Pacific Islander                                                                                            48 (0.3)                                                                                                                               29 (0.2)
-Otherc                                                                                                                               534 (2.9)                                                                                                                              516 (2.8)
+White                                                                                                             15,110 (82.8)                                                                    15,301 (83.3)
+Black or African American                                                                                         1617 (8.9)                                                                       1617 (8.8)
+American Indian or Alaska Native                                                                                  118 (0.6)                                                                        106 (0.6)
+Asian                                                                                                             815 (4.5)                                                                        810 (4.4)
+Native Hawaiian or other Pacific Islander                                                                         48 (0.3)                                                                         29 (0.2)
+Otherc                                                                                                            534 (2.9)                                                                        516 (2.8)
+Revised: 20 October 2021                                                                                                                                                                                                     39
+
+Pfizer-BioNTech
+                                                                                                                                     COVID-19 Vaccine                                                                                                             Placebo
+                                                                                                                                     (N=18,242)                                                                                                                   (N=18,379)
+                                                                                                                                     n (%)                                                                                                                        n (%)
 Ethnicity
-Hispanic or Latino                                                                                                                   4886 (26.8)                                                                                                                            4857 (26.4)
-Not Hispanic or Latino                                                                                                               13,253 (72.7)                                                                                                                          13,412 (73.0)
-Not reported                                                                                                                         103 (0.6)                                                                                                                              110 (0.6)
+Hispanic or Latino                                                                                                                   4886 (26.8)                                                                                                                  4857 (26.4)
+Not Hispanic or Latino                                                                                                               13,253 (72.7)                                                                                                                13,412 (73.0)
+Not reported                                                                                                                         103 (0.6)                                                                                                                    110 (0.6)
 Comorbiditiesd
-Yes                                                                                                                                  8432 (46.2)                                                                                                                            8450 (46.0)
-No                                                                                                                                   9810 (53.8)                                                                                                                            9929 (54.0)
+Yes                                                                                                                                  8432 (46.2)                                                                                                                  8450 (46.0)
+No                                                                                                                                   9810 (53.8)                                                                                                                  9929 (54.0)
 a.   All eligible randomized participants who receive all vaccination(s) as randomized within the predefined window, have no other
 important protocol deviations as determined by the clinician, and have no evidence of SARS-CoV-2 infection prior to 7 days
 after Dose 2.
@@ -1563,12 +1565,6 @@ moderate to severe asthma
 pulmonary hypertension)
 •    Obesity (body mass index ≥30 kg/m2)
 •    Diabetes (Type 1, Type 2 or gestational)
-Revised: 22 September 2021                                                                                                           40
-
-Pfizer-BioNTech
-COVID-19 Vaccine                                                                                                                   Placebo
-(N=18,242)                                                                                                                         (N=18,379)
-n (%)                                                                                                                              n (%)
 •    Liver disease
 •    Human Immunodeficiency Virus (HIV) infection (not included in the efficacy evaluation)
 The population in the primary efficacy analysis included all participants 12 years of age and older who had been
@@ -1583,50 +1579,50 @@ Evidence of Infection Prior to 7 Days After Dose 2 - Evaluable Efficacy (7 Days)
 First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior
 SARS-CoV-2 infection*
 Pfizer-BioNTech
-                                                                                                                                   COVID-19 Vaccine                                                                                       Placebo
-                                                                                                                                   Na=18,198                                                                                              Na=18,325
-                                                                                                                                   Cases                                                                                                  Cases
-                                                                                                                                   n1b                                                                                                    n1b                        Vaccine Efficacy %
-Subgroup                                                                                                                           Surveillance Timec (n2d)                                                                               Surveillance Timec (n2d)   (95% CI)
-                                                                                                                                   8                                                                                                      162
-All subjectse                                                                                                                      2.214 (17,411)                                                                                         2.222 (17,511)             95.0 (90.3, 97.6)f
-                                                                                                                                   7                                                                                                      143
-16 through 64 years                                                                                                                1.706 (13,549)                                                                                         1.710 (13,618)             95.1 (89.6, 98.1)g
-                                                                                                                                   1                                                                                                      19
-65 years and older                                                                                                                 0.508 (3848)                                                                                           0.511 (3880)               94.7 (66.7, 99.9)g
-                                                                                                                                   First COVID-19 occurrence from 7 days after Dose 2 in participants with or without evidence of prior
-                                                                                                                                   SARS-CoV-2 infection
-                                                                                                                                   Pfizer-BioNTech
-                                                                                                                                   COVID-19 Vaccine                                                                                       Placebo
-                                                                                                                                   Na=19,965                                                                                              Na=20,172
-                                                                                                                                   Cases                                                                                                  Cases
-                                                                                                                                   n1b                                                                                                    n1b                        Vaccine Efficacy %
-Subgroup                                                                                                                           Surveillance Timec (n2d)                                                                               Surveillance Timec (n2d)   (95% CI)
-                                                                                                                                   9                                                                                                      169
-All subjectse                                                                                                                      2.332 (18,559)                                                                                         2.345 (18,708)             94.6 (89.9, 97.3)f
-                                                                                                                                   8                                                                                                      150
-16 through 64 years                                                                                                                1.802 (14,501)                                                                                         1.814 (14,627)             94.6 (89.1, 97.7)g
-                                                                                                                                   1                                                                                                      19
-65 years and older                                                                                                                 0.530 (4044)                                                                                           0.532 (4067)               94.7 (66.8, 99.9)g
+                                                                                                                                     COVID-19 Vaccine                                                                                                             Placebo
+                                                                                                                                     Na=18,198                                                                                                                    Na=18,325
+                                                                                                                                     Cases                                                                                                                        Cases
+                                                                                                                                     n1b                                                                                                                          n1b                        Vaccine Efficacy %
+Subgroup                                                                                                                             Surveillance Timec (n2d)                                                                                                     Surveillance Timec (n2d)   (95% CI)
+                                                                                                                                     8                                                                                                                            162
+All subjectse                                                                                                                        2.214 (17,411)                                                                                                               2.222 (17,511)             95.0 (90.3, 97.6)f
+                                                                                                                                     7                                                                                                                            143
+16 through 64 years                                                                                                                  1.706 (13,549)                                                                                                               1.710 (13,618)             95.1 (89.6, 98.1)g
+65 years and older                                                                                                                   1                                                                                                                            19                         94.7 (66.7, 99.9)g
+Revised: 20 October 2021                                                                                                                                                                                                                                                                     40
+
+0.508 (3848)                                                                                                                         0.511 (3880)
+First COVID-19 occurrence from 7 days after Dose 2 in participants with or without evidence of prior
+                                                                                                                                     SARS-CoV-2 infection
+                                                                                                                                     Pfizer-BioNTech
+                                                                                                                                     COVID-19 Vaccine                                                                                                                    Placebo
+                                                                                                                                     Na=19,965                                                                                                                           Na=20,172
+                                                                                                                                     Cases                                                                                                                               Cases
+                                                                                                                                     n1b                                                                                                                                 n1b                        Vaccine Efficacy %
+Subgroup                                                                                                                             Surveillance Timec (n2d)                                                                                                            Surveillance Timec (n2d)   (95% CI)
+                                                                                                                                     9                                                                                                                                   169
+All subjectse                                                                                                                        2.332 (18,559)                                                                                                                      2.345 (18,708)             94.6 (89.9, 97.3)f
+                                                                                                                                     8                                                                                                                                   150
+16 through 64 years                                                                                                                  1.802 (14,501)                                                                                                                      1.814 (14,627)             94.6 (89.1, 97.7)g
+                                                                                                                                     1                                                                                                                                   19
+65 years and older                                                                                                                   0.530 (4044)                                                                                                                        0.532 (4067)               94.7 (66.8, 99.9)g
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom
 consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or
 increased muscle pain; new loss of taste or smell; sore throat; diarrhea; vomiting).
 *   Participants who had no evidence of past SARS-CoV-2 infection (i.e., N-binding antibody [serum] negative at Visit 1 and
 SARS-CoV-2 not detected by NAAT [nasal swab] at Visits 1 and 2), and had negative NAAT (nasal swab) at any unscheduled
 visit prior to 7 days after Dose 2 were included in the analysis.
-Revised: 22 September 2021                                                                                                         41
-
 a.   N = Number of participants in the specified group.
 b.   n1 = Number of participants meeting the endpoint definition.
 c.   Total surveillance time in 1000 person-years for the given endpoint across all participants within each group at risk for the
 endpoint. Time period for COVID-19 case accrual is from 7 days after Dose 2 to the end of the surveillance period.
 d.   n2 = Number of participants at risk for the endpoint.
 e.   No confirmed cases were identified in adolescents 12 through 15 years of age.
-f.                                                                                                                                      Credible interval for vaccine efficacy (VE) was calculated using a beta-binomial model with a beta (0.700102, 1) prior for θ=r(1-
+f.                                                                                                                                   Credible interval for vaccine efficacy (VE) was calculated using a beta-binomial model with a beta (0.700102, 1) prior for θ=r(1-
 VE)/(1+r(1-VE)), where r is the ratio of surveillance time in the active vaccine group over that in the placebo group.
 g.   Confidence interval (CI) for vaccine efficacy is derived based on the Clopper and Pearson method adjusted to the surveillance
 time.
-18.2                                                                                                                                    Efficacy of Primary Series in Adolescents 12 Through 15 Years of Age
+18.2                                                                                                                                 Efficacy of Primary Series in Adolescents 12 Through 15 Years of Age
 A descriptive efficacy analysis of Study 2 has been performed in approximately 2,200 adolescents 12 through
 15 years of age evaluating confirmed COVID-19 cases accrued up to a data cutoff date of March 13, 2021.
 The efficacy information in adolescents 12 through 15 years of age is presented in Table 11.
@@ -1637,23 +1633,25 @@ Efficacy (7 Days) Population
 First COVID-19 occurrence from 7 days after Dose 2 in adolescents 12 through 15 years of age without
 evidence of prior SARS-CoV-2 infection*
 Pfizer-BioNTech
-                                                                                                                                        COVID-19 Vaccine                                                                                                                    Placebo
-                                                                                                                                        Na=1005                                                                                                                             Na=978
-                                                                                                                                        Cases                                                                                                                               Cases
-                                                                                                                                        n1b                                                                                                                                 n1b                        Vaccine Efficacy %
-                                                                                                                                        Surveillance Timec (n2d)                                                                                                            Surveillance Timec (n2d)   (95% CIe)
-Adolescents                                                                                                                             0                                                                                                                                   16
-12 through 15 years of age                                                                                                              0.154 (1001)                                                                                                                        0.147 (972)                100.0 (75.3, 100.0)
-                                                                                                                                        First COVID-19 occurrence from 7 days after Dose 2 in adolescents 12 through 15 years of age with or
-                                                                                                                                        without evidence of prior SARS-CoV-2 infection
-                                                                                                                                        Pfizer-BioNTech                                                                                                                     Placebo
+                                                                                                                                     COVID-19 Vaccine                                                                                                                    Placebo
+                                                                                                                                     Na=1005                                                                                                                             Na=978
+                                                                                                                                     Cases                                                                                                                               Cases
+                                                                                                                                     n1b                                                                                                                                 n1b                        Vaccine Efficacy %
+                                                                                                                                     Surveillance Timec (n2d)                                                                                                            Surveillance Timec (n2d)   (95% CIe)
+Adolescents                                                                                                                          0                                                                                                                                   16
+12 through 15 years of age                                                                                                           0.154 (1001)                                                                                                                        0.147 (972)                100.0 (75.3, 100.0)
+Revised: 20 October 2021                                                                                                                                                                                                                                                                            41
+
+First COVID-19 occurrence from 7 days after Dose 2 in adolescents 12 through 15 years of age with or
+without evidence of prior SARS-CoV-2 infection
+                                                                                                                                        Pfizer-BioNTech                                                              Placebo
                                                                                                                                         COVID-19 Vaccine
-                                                                                                                                        Na=1119                                                                                                                             Na=1110
-                                                                                                                                        Cases                                                                                                                               Cases
-                                                                                                                                        n1b                                                                                                                                 n1b                        Vaccine Efficacy %
-                                                                                                                                        Surveillance Timec (n2d)                                                                                                            Surveillance Timec (n2d)   (95% CIe)
-Adolescents                                                                                                                             0                                                                                                                                   18
-12 through 15 years of age                                                                                                              0.170 (1109)                                                                                                                        0.163 (1094)               100.0 (78.1, 100.0)
+                                                                                                                                        Na=1119                                                                      Na=1110
+                                                                                                                                        Cases                                                                        Cases
+                                                                                                                                        n1b                                                                          n1b                        Vaccine Efficacy %
+                                                                                                                                        Surveillance Timec (n2d)                                                     Surveillance Timec (n2d)   (95% CIe)
+Adolescents                                                                                                                             0                                                                            18
+12 through 15 years of age                                                                                                              0.170 (1109)                                                                 0.163 (1094)               100.0 (78.1, 100.0)
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom
 consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or
 increased muscle pain; new loss of taste or smell; sore throat; diarrhea; vomiting).
@@ -1666,9 +1664,7 @@ c.   Total surveillance time in 1000 person-years for the given endpoint across 
 endpoint. Time period for COVID-19 case accrual is from 7 days after Dose 2 to the end of the surveillance period.
 d.   n2 = Number of participants at risk for the endpoint.
 e.   Confidence interval (CI) for vaccine efficacy is derived based on the Clopper and Pearson method adjusted for surveillance time.
-Revised: 22 September 2021                                                                                                              42
-
-18.3                                                                                                                                  Immunogenicity of Primary Series in Adolescents 12 Through 15 Years of Age
+18.3                                                                                                                                    Immunogenicity of Primary Series in Adolescents 12 Through 15 Years of Age
 In Study 2, an analysis of SARS-CoV-2 50% neutralizing titers 1 month after Dose 2 in a randomly selected
 subset of participants demonstrated non-inferior immune responses (within 1.5-fold) comparing adolescents
 12 through 15 years of age to participants 16 through 25 years of age who had no serological or virological
@@ -1678,16 +1674,16 @@ Table 12: Summary of Geometric Mean Ratio for 50% Neutralizing Titer - Compariso
 Subset) -Participants Without Evidence of Infection up to 1 Month After Dose 2 - Dose 2
 Evaluable Immunogenicity Population
 Pfizer-BioNTech COVID-19 Vaccine
-                                                                                                                                                                                                                                          12 Through 15 Years   16 Through 25 Years   12 Through 15 Years/
-                                                                                                                                                                                                                                          na=190                na=170                16 Through 25 Years
-                                                                                                                                                                                                                                                                                                             Met
-                                                                                                                                                                                                                                                                                                             Noninferiority
-                                                                                                                                      Time                                                                                                GMTc                  GMTc                  GMRd                   Objectivee
-Assay                                                                                                                                 Pointb                                                                                              (95% CIc)             (95% CIc)             (95% CId)              (Y/N)
+                                                                                                                                                                                                                     12 Through 15 Years        16 Through 25 Years   12 Through 15 Years/
+                                                                                                                                                                                                                     na=190                     na=170                16 Through 25 Years
+                                                                                                                                                                                                                                                                                             Met
+                                                                                                                                                                                                                                                                                             Noninferiority
+                                                                                                                                        Time                                                                         GMTc                       GMTc                  GMRd                   Objectivee
+Assay                                                                                                                                   Pointb                                                                       (95% CIc)                  (95% CIc)             (95% CId)              (Y/N)
 SARS-CoV-2
-neutralization                                                                                                                        1 month
-assay - NT50                                                                                                                          after                                                                                               1239.5                705.1                 1.76
-(titer)f                                                                                                                              Dose 2                                                                                              (1095.5, 1402.5)      (621.4, 800.2)        (1.47, 2.10)           Y
+neutralization                                                                                                                          1 month
+assay - NT50                                                                                                                            after                                                                        1239.5                     705.1                 1.76
+(titer)f                                                                                                                                Dose 2                                                                       (1095.5, 1402.5)           (621.4, 800.2)        (1.47, 2.10)           Y
 Abbreviations: CI = confidence interval; GMR = geometric mean ratio; GMT = geometric mean titer; LLOQ = lower limit of
 quantitation; NAAT = nucleic-acid amplification test; NT50 = 50% neutralizing titer; SARS-CoV-2 = severe acute respiratory
 syndrome coronavirus 2.
@@ -1697,17 +1693,20 @@ infection (i.e., N-binding antibody [serum] negative at Visit 1 and SARS-CoV-2 n
 a.   n = Number of participants with valid and determinate assay results for the specified assay at the given dose/sampling time
 point.
 b.   Protocol-specified timing for blood sample collection.
+Revised: 20 October 2021                                                                                                                42
+
 c.   GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titers and the corresponding CIs
 (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
 d.   GMRs and 2-sided 95% CIs were calculated by exponentiating the mean difference of the logarithms of the titers (Group 1
 [12 through 15 years of age] - Group 2 [16 through 25 years of age]) and the corresponding CI (based on the Student t
 distribution).
 e.   Noninferiority is declared if the lower bound of the 2-sided 95% CI for the GMR is greater than 0.67.
-f.                                                                                                                                    SARS-CoV-2 50% neutralization titers (NT50) were determined using the SARS-CoV-2 mNeonGreen Virus
+f.                                                                                                                             SARS-CoV-2 50% neutralization titers (NT50) were determined using the SARS-CoV-2 mNeonGreen Virus
 Microneutralization Assay. The assay uses a fluorescent reporter virus derived from the USA_WA1/2020 strain and virus
 neutralization is read on Vero cell monolayers. The sample NT50 is defined as the reciprocal serum dilution at which 50% of
 the virus is neutralized.
-18.4                                                                                                                                  Immunogenicity of Booster Dose in Participants 18 Through 55 Years of Age
+18.4                                                                                                                           Immunogenicity of a Booster Dose Following a Pfizer-BioNTech COVID-19 Vaccine Primary
+Series in Participants 18 Through 55 Years of Age
 Effectiveness of a booster dose of Pfizer-BioNTech COVID-19 Vaccine was based on an assessment of 50%
 neutralizing antibody titers (NT50) against SARS-CoV-2 (USA_WA1/2020). In Study 2, analyses of NT50
 1 month after the booster dose compared to 1 month after the primary series in individuals 18 through 55 years
@@ -1715,7 +1714,7 @@ of age who had no serological or virological evidence of past SARS-CoV-2 infecti
 booster vaccination demonstrated noninferiority for both geometric mean ratio (GMR) and difference in
 seroresponse rates. Seroresponse for a participant was defined as achieving a ≥4-fold rise in NT50 from
 baseline (before primary series). These analyses are summarized in Table 13 and Table 14.
-Revised: 22 September 2021                                                                                                            43
+Revised: 20 October 2021                                                                                                       43
 
 Table 13: Geometric Mean 50% Neutralizing Titer (SARS-CoV-2 USA_WA1/2020) - Comparison of
 1 Month After Booster Dose to 1 Month After Primary Series - Participants 18 Through
@@ -1752,7 +1751,7 @@ d.   Noninferiority is declared if the lower bound of the 2-sided 97.5% CI for t
 e.   SARS-CoV-2 NT50 were determined using the SARS-CoV-2 mNeonGreen Virus Microneutralization Assay. The assay uses a
 fluorescent reporter virus derived from the USA_WA1/2020 strain and virus neutralization is read on Vero cell monolayers. The
 sample NT50 is defined as the reciprocal serum dilution at which 50% of the virus is neutralized.
-Revised: 22 September 2021                                                                                                             44
+Revised: 20 October 2021                                                                                                               44
 
 Table 14: Seroresponse Rate for 50% Neutralizing Titer (SARS-CoV-2 USA_WA1/2020) - Comparison
 of 1 Month After Booster Dose to 1 Month After Primary Series - Participants 18 Through
@@ -1800,13 +1799,30 @@ to 99 of these individuals approximately 2 months after they had received a seco
 who had been seronegative before the third dose, 26 (44%) were seropositive at 4 weeks after the third dose. All
 40 patients who had been seropositive before the third dose were still seropositive 4 weeks later. The prevalence
 of anti-SARS-CoV-2 antibodies was 68% (67 of 99 patients) 4 weeks after the third dose.
-19                                                                                                                                       HOW SUPPLIED/STORAGE AND HANDLING
+18.6                                                                                                                                     Immunogenicity of a Booster Dose Following Primary Vaccination with Another Authorized
+COVID-19 Vaccine
+Effectiveness of a Pfizer-BioNTech COVID-19 Vaccine booster dose in individuals who completed primary
+vaccination with another authorized COVID-19 Vaccine (heterologous booster dose) is inferred from
+immunogenicity data supporting effectiveness of a Pfizer-BioNTech COVID-19 Vaccine booster dose
+Revised: 20 October 2021                                                                                                                 45
+
+administered following completion of Pfizer-BioNTech COVID-19 Vaccine primary series and from
+immunogenicity data from an independent NIH study Phase 1/2 open-label clinical trial (NCT04889209)
+conducted in the United States that evaluated a heterologous booster dose of the Pfizer-BioNTech COVID-19
+Vaccine. In this study, adults who had completed primary vaccination with a Moderna COVID-19 Vaccine
+2-dose series (N=151), a Janssen COVID-19 Vaccine single dose (N=156), or a Pfizer-BioNTech COVID-19
+Vaccine 2-dose series (N=151) at least 12 weeks prior to enrollment and who reported no history of
+SARS-CoV-2 infection were randomized 1:1:1 to receive a booster dose of one of three vaccines: Moderna
+COVID-19 Vaccine, Janssen COVID-19 Vaccine, or Pfizer-BioNTech COVID-19 Vaccine. Neutralizing
+antibody titers, as measured by a pseudovirus neutralization assay using a lentivirus expressing the SARS-CoV-
+2 Spike protein with D614G mutation, were assessed on Day 1 prior to administration of the booster dose and
+on Day 15 after the booster dose. A booster response to the Pfizer-BioNTech COVID-19 Vaccine was
+demonstrated regardless of primary vaccination.
+19                                                                                                                HOW SUPPLIED/STORAGE AND HANDLING
 Pfizer-BioNTech COVID-19 Vaccine Suspension for Intramuscular Injection, Multiple Dose Vials are supplied
 in a carton containing 25 multiple dose vials (NDC 59267-1000-3) or 195 multiple dose vials
 (NDC 59267-1000-2). After dilution, one vial contains 6 doses of 0.3 mL. Vial labels and cartons may state that
 after dilution, a vial contains 5 doses of 0.3 mL. The information in this Full EUA Prescribing Information
-Revised: 22 September 2021                                                                                                               45
-
 regarding the number of doses per vial after dilution supersedes the number of doses stated on vial labels and
 cartons.
 During storage, minimize exposure to room light, and avoid exposure to direct sunlight and ultraviolet light.
@@ -1820,17 +1836,19 @@ Cartons and vials of Pfizer-BioNTech COVID-19 Vaccine with an expiry date of May
 2022 printed on the label may remain in use for 3 months beyond the printed date as long as approved storage
 conditions between -90ºC to -60ºC (-130ºF to -76ºF) have been maintained. Updated expiry dates are shown
 below.
-Printed Expiry Date                                                                                                  Updated Expiry Date
-May 2021                                                                                                                August 2021
-June 2021                                                                                                               September 2021
-July 2021                                                                                                               October 2021
-August 2021                                                                                                              November 2021
-September 2021                                                                                                           December 2021
-October 2021                                                                                                             January 2022
-November 2021                                                                                                            February 2022
-December 2021                                                                                                            March 2022
-January 2022                                                                                                             April 2022
-February 2022                                                                                                            May 2022
+Printed Expiry Date                                                                                               Updated Expiry Date
+May 2021                                                                                                             August 2021
+June 2021                                                                                                            September 2021
+July 2021                                                                                                            October 2021
+August 2021                                                                                                           November 2021
+September 2021                                                                                                        December 2021
+October 2021                                                                                                          January 2022
+November 2021                                                                                                         February 2022
+December 2021                                                                                                         March 2022
+January 2022                                                                                                          April 2022
+February 2022                                                                                                         May 2022
+Revised: 20 October 2021                                                                                          46
+
 If not stored between -90ºC to -60ºC (-130ºF to -76ºF), vials may be stored at -25°C to -15°C (-13°F to 5°F) for
 up to 2 weeks. Vials must be kept frozen and protected from light, in the original cartons, until ready to use.
 Vials stored at -25°C to -15°C (-13°F to 5°F) for up to 2 weeks may be returned one time to the recommended
@@ -1848,8 +1866,6 @@ If local redistribution is needed and full cartons containing vials cannot be tr
 at -25°C to -15°C (-13°F to 5°F) count against the 2-week limit for storage at -25°C to -15°C (-13°F to 5°F).
 Frozen vials transported at -25°C to -15°C (-13°F to 5°F) may be returned one time to the recommended storage
 condition of -90ºC to -60ºC (-130ºF to -76ºF).
-Revised: 22 September 2021                                                                                           46
-
 Thawed Vials Before Dilution
 Thawed Under Refrigeration
 Thaw and then store undiluted vials in the refrigerator [2ºC to 8ºC (35ºF to 46ºF)] for up to 1 month. A carton of
@@ -1867,19 +1883,19 @@ Vials After Dilution
 After dilution, store vials between 2°C to 25°C (35°F to 77°F) and use within 6 hours from the time of dilution.
 During storage, minimize exposure to room light, and avoid exposure to direct sunlight and ultraviolet light.
 Any vaccine remaining in vials must be discarded after 6 hours. Do not refreeze.
-20                                                                                                                   PATIENT COUNSELING INFORMATION
+Revised: 20 October 2021                                                                                             47
+
+20                                                                                                               PATIENT COUNSELING INFORMATION
 Advise the recipient or caregiver to read the Vaccine Information Fact Sheet for Recipients and Caregivers.
 The vaccination provider must include vaccination information in the state/local jurisdiction’s Immunization
 Information System (IIS) or other designated system. Advise recipient or caregiver that more information about
 IISs can be found at: https://www.cdc.gov/vaccines/programs/iis/about.html.
-21                                                                                                                   CONTACT INFORMATION
-                                                                                                                     For general questions, visit the website or call the telephone number provided below.
-Website                                                                                                              Telephone number
+21                                                                                                               CONTACT INFORMATION
+For general questions, visit the website or call the telephone number provided below.
+Website                                                                                                          Telephone number
 www.cvdvaccine.com
 1-877-829-2619
 (1-877-VAX-CO19)
-Revised: 22 September 2021                                                                                           47
-
 This Full EUA Prescribing Information may have been updated. For the most recent Full EUA Prescribing
 Information, please see www.cvdvaccine.com.
 Manufactured by
@@ -1888,6 +1904,6 @@ Manufactured for
 BioNTech Manufacturing GmbH
 An der Goldgrube 12
 55131 Mainz, Germany
-LAB-1457-13.4
-Revised: 22 September 2021
-Revised: 22 September 2021                                                                              48
+LAB-1457-14.2a
+Revised: 20 October 2021
+Revised: 20 October 2021                                                                                         48
